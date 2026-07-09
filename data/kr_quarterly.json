@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-07-09",
+  "note": "발행 전 DART 배당결정 공시로 최신 주기 확인 권장. 이 파일만 수정하면 블로그 페이지에 자동 반영됩니다.",
+  "stocks": [
+    { "name": "삼성전자", "code": "005930", "market": "KOSPI", "since": "2017", "memo": "분기 균등배당 정착" },
+    { "name": "SK하이닉스", "code": "000660", "market": "KOSPI", "since": "2022", "memo": "고정배당 + 연간 FCF 연동" },
+    { "name": "현대차", "code": "005380", "market": "KOSPI", "since": "2023", "memo": "분기배당 전환" },
+    { "name": "포스코홀딩스", "code": "005490", "market": "KOSPI", "since": "2022", "memo": "분기 균등 지향" },
+    { "name": "신한지주", "code": "055550", "market": "KOSPI", "since": "2021", "memo": "금융지주 분기배당 선도" },
+    { "name": "KB금융", "code": "105560", "market": "KOSPI", "since": "2022", "memo": "분기 균등배당" },
+    { "name": "하나금융지주", "code": "086790", "market": "KOSPI", "since": "2022", "memo": "분기배당" },
+    { "name": "우리금융지주", "code": "316140", "market": "KOSPI", "since": "2024", "memo": "분기배당 전환" },
+    { "name": "JB금융지주", "code": "175330", "market": "KOSPI", "since": "2023", "memo": "지방금융 최초 분기배당" },
+    { "name": "SK텔레콤", "code": "017670", "market": "KOSPI", "since": "2021", "memo": "통신주 분기배당" },
+    { "name": "두산밥캣", "code": "241560", "market": "KOSPI", "since": "2022", "memo": "분기배당" },
+    { "name": "한온시스템", "code": "018880", "market": "KOSPI", "since": "2015", "memo": "국내 분기배당 원조격" }
+  ]
+}
