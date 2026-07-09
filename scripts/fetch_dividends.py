@@ -15,56 +15,56 @@ import yfinance as yf
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "us_dividends.json"
 
-# 유니버스: 서학개미 관심 배당 종목/ETF. 자유롭게 추가/삭제.
+# 유니버스: 서학개미 관심 배당 종목/ETF. (영문명, 한글명) — 자유롭게 추가/삭제.
 UNIVERSE = {
     # 월배당 / 커버드콜 ETF
-    "JEPI": "JPMorgan Equity Premium Income",
-    "JEPQ": "JPMorgan Nasdaq Equity Premium",
-    "QYLD": "Global X Nasdaq 100 Covered Call",
-    "XYLD": "Global X S&P 500 Covered Call",
-    "RYLD": "Global X Russell 2000 Covered Call",
-    "TLTW": "iShares 20+ Treasury BuyWrite",
-    "SPHD": "Invesco S&P 500 High Div Low Vol",
-    "PFF":  "iShares Preferred & Income",
-    "SDIV": "Global X SuperDividend",
-    "DIVO": "Amplify CWP Enhanced Dividend",
-    "DIA":  "SPDR Dow Jones Industrial Average",
+    "JEPI": ("JPMorgan Equity Premium Income", "JP모건 에쿼티 프리미엄 인컴"),
+    "JEPQ": ("JPMorgan Nasdaq Equity Premium", "JP모건 나스닥 프리미엄 인컴"),
+    "QYLD": ("Global X Nasdaq 100 Covered Call", "글로벌X 나스닥100 커버드콜"),
+    "XYLD": ("Global X S&P 500 Covered Call", "글로벌X S&P500 커버드콜"),
+    "RYLD": ("Global X Russell 2000 Covered Call", "글로벌X 러셀2000 커버드콜"),
+    "TLTW": ("iShares 20+ Treasury BuyWrite", "아이셰어즈 미국채 20년+ 커버드콜"),
+    "SPHD": ("Invesco S&P 500 High Div Low Vol", "인베스코 고배당 저변동성"),
+    "PFF":  ("iShares Preferred & Income", "아이셰어즈 우선주"),
+    "SDIV": ("Global X SuperDividend", "글로벌X 슈퍼디비던드"),
+    "DIVO": ("Amplify CWP Enhanced Dividend", "앰플리파이 배당성장 커버드콜"),
+    "DIA":  ("SPDR Dow Jones Industrial Average", "SPDR 다우존스"),
     # 월배당 개별주 (리츠/BDC)
-    "O":    "Realty Income",
-    "MAIN": "Main Street Capital",
-    "AGNC": "AGNC Investment",
-    "STAG": "STAG Industrial",
-    "EPR":  "EPR Properties",
+    "O":    ("Realty Income", "리얼티인컴"),
+    "MAIN": ("Main Street Capital", "메인스트리트 캐피털"),
+    "AGNC": ("AGNC Investment", "AGNC 인베스트먼트"),
+    "STAG": ("STAG Industrial", "스태그 인더스트리얼"),
+    "EPR":  ("EPR Properties", "EPR 프로퍼티스"),
     # 분기배당 ETF
-    "SCHD": "Schwab US Dividend Equity",
-    "VYM":  "Vanguard High Dividend Yield",
-    "VIG":  "Vanguard Dividend Appreciation",
-    "DGRO": "iShares Core Dividend Growth",
-    "HDV":  "iShares Core High Dividend",
-    "SPYD": "SPDR S&P 500 High Dividend",
-    "DVY":  "iShares Select Dividend",
-    "NOBL": "ProShares S&P 500 Dividend Aristocrats",
+    "SCHD": ("Schwab US Dividend Equity", "슈왑 미국 배당주"),
+    "VYM":  ("Vanguard High Dividend Yield", "뱅가드 고배당"),
+    "VIG":  ("Vanguard Dividend Appreciation", "뱅가드 배당성장"),
+    "DGRO": ("iShares Core Dividend Growth", "아이셰어즈 배당성장"),
+    "HDV":  ("iShares Core High Dividend", "아이셰어즈 고배당"),
+    "SPYD": ("SPDR S&P 500 High Dividend", "SPDR 고배당"),
+    "DVY":  ("iShares Select Dividend", "아이셰어즈 셀렉트 디비던드"),
+    "NOBL": ("ProShares S&P 500 Dividend Aristocrats", "프로셰어즈 배당귀족"),
     # 분기배당 개별주
-    "KO":   "Coca-Cola",
-    "PEP":  "PepsiCo",
-    "JNJ":  "Johnson & Johnson",
-    "PG":   "Procter & Gamble",
-    "MO":   "Altria",
-    "T":    "AT&T",
-    "VZ":   "Verizon",
-    "ABBV": "AbbVie",
-    "XOM":  "Exxon Mobil",
-    "CVX":  "Chevron",
-    "MCD":  "McDonald's",
-    "IBM":  "IBM",
-    "MMM":  "3M",
-    "TGT":  "Target",
-    "SBUX": "Starbucks",
-    "HD":   "Home Depot",
-    "LMT":  "Lockheed Martin",
-    "AVGO": "Broadcom",
-    "MSFT": "Microsoft",
-    "AAPL": "Apple",
+    "KO":   ("Coca-Cola", "코카콜라"),
+    "PEP":  ("PepsiCo", "펩시코"),
+    "JNJ":  ("Johnson & Johnson", "존슨앤드존슨"),
+    "PG":   ("Procter & Gamble", "프록터앤드갬블"),
+    "MO":   ("Altria", "알트리아"),
+    "T":    ("AT&T", "AT&T"),
+    "VZ":   ("Verizon", "버라이즌"),
+    "ABBV": ("AbbVie", "애브비"),
+    "XOM":  ("Exxon Mobil", "엑슨모빌"),
+    "CVX":  ("Chevron", "셰브론"),
+    "MCD":  ("McDonald's", "맥도날드"),
+    "IBM":  ("IBM", "IBM"),
+    "MMM":  ("3M", "쓰리엠"),
+    "TGT":  ("Target", "타깃"),
+    "SBUX": ("Starbucks", "스타벅스"),
+    "HD":   ("Home Depot", "홈디포"),
+    "LMT":  ("Lockheed Martin", "록히드마틴"),
+    "AVGO": ("Broadcom", "브로드컴"),
+    "MSFT": ("Microsoft", "마이크로소프트"),
+    "AAPL": ("Apple", "애플"),
 }
 
 FREQ_LABEL = {"monthly": "월배당", "quarterly": "분기배당",
@@ -83,7 +83,7 @@ def infer_frequency(n_last_365d: int) -> str:
     return "irregular"
 
 
-def fetch_one(symbol: str, name: str) -> dict | None:
+def fetch_one(symbol: str, name: str, name_kr: str) -> dict | None:
     t = yf.Ticker(symbol)
     now = datetime.now(timezone.utc)
 
@@ -132,6 +132,7 @@ def fetch_one(symbol: str, name: str) -> dict | None:
     return {
         "symbol": symbol,
         "name": name,
+        "name_kr": name_kr,
         "frequency": freq,
         "frequency_kr": FREQ_LABEL[freq],
         "price": round(price, 2) if price else None,
@@ -146,10 +147,11 @@ def fetch_one(symbol: str, name: str) -> dict | None:
 
 def main() -> int:
     results, failed = [], []
-    for i, (sym, name) in enumerate(UNIVERSE.items()):
+    for i, (sym, names) in enumerate(UNIVERSE.items()):
+        name, name_kr = names
         for attempt in range(2):
             try:
-                row = fetch_one(sym, name)
+                row = fetch_one(sym, name, name_kr)
                 if row:
                     results.append(row)
                 break
