@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-10 23:11 UTC",
+ "updated_at": "2026-07-11 23:06 UTC",
  "count": 44,
  "failed": [],
  "tickers": [
@@ -587,6 +587,37 @@
    ]
   },
   {
+   "symbol": "VZ",
+   "name": "Verizon",
+   "name_kr": "버라이즌",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 42.12,
+   "ttm_dividend": 2.796,
+   "ttm_yield": 6.64,
+   "last_ex_date": "2026-07-10",
+   "last_amount": 0.708,
+   "next_ex_date": "2026-07-10",
+   "history": [
+    {
+     "ex_date": "2025-10-10",
+     "amount": 0.69
+    },
+    {
+     "ex_date": "2026-01-12",
+     "amount": 0.69
+    },
+    {
+     "ex_date": "2026-04-10",
+     "amount": 0.708
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.708
+    }
+   ]
+  },
+  {
    "symbol": "DIVO",
    "name": "Amplify CWP Enhanced Dividend",
    "name_kr": "앰플리파이 배당성장 커버드콜",
@@ -807,6 +838,37 @@
    ]
   },
   {
+   "symbol": "T",
+   "name": "AT&T",
+   "name_kr": "AT&T",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 21.13,
+   "ttm_dividend": 1.112,
+   "ttm_yield": 5.26,
+   "last_ex_date": "2026-07-10",
+   "last_amount": 0.278,
+   "next_ex_date": "2026-07-10",
+   "history": [
+    {
+     "ex_date": "2025-10-10",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-01-12",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-04-10",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.278
+    }
+   ]
+  },
+  {
    "symbol": "O",
    "name": "Realty Income",
    "name_kr": "리얼티인컴",
@@ -866,33 +928,6 @@
     {
      "ex_date": "2026-06-30",
      "amount": 0.271
-    }
-   ]
-  },
-  {
-   "symbol": "VZ",
-   "name": "Verizon",
-   "name_kr": "버라이즌",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 42.12,
-   "ttm_dividend": 2.088,
-   "ttm_yield": 4.96,
-   "last_ex_date": "2026-04-10",
-   "last_amount": 0.708,
-   "next_ex_date": "2026-07-10",
-   "history": [
-    {
-     "ex_date": "2025-10-10",
-     "amount": 0.69
-    },
-    {
-     "ex_date": "2026-01-12",
-     "amount": 0.69
-    },
-    {
-     "ex_date": "2026-04-10",
-     "amount": 0.708
     }
    ]
   },
@@ -1049,33 +1084,6 @@
     {
      "ex_date": "2026-05-19",
      "amount": 1.78
-    }
-   ]
-  },
-  {
-   "symbol": "T",
-   "name": "AT&T",
-   "name_kr": "AT&T",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 21.13,
-   "ttm_dividend": 0.834,
-   "ttm_yield": 3.95,
-   "last_ex_date": "2026-04-10",
-   "last_amount": 0.278,
-   "next_ex_date": "2026-07-10",
-   "history": [
-    {
-     "ex_date": "2025-10-10",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-01-12",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-04-10",
-     "amount": 0.278
     }
    ]
   },
