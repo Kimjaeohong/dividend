@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-07-18 15:05 UTC",
- "count": 102,
+ "updated_at": "2026-07-18 15:51 UTC",
+ "count": 112,
  "failed": [],
  "tickers": [
   {
@@ -2556,6 +2556,38 @@
    ]
   },
   {
+   "symbol": "UNH",
+   "name": "UnitedHealth Group",
+   "name_kr": "유나이티드헬스그룹",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 426.09,
+   "ttm_dividend": 8.95,
+   "ttm_yield": 2.1,
+   "last_ex_date": "2026-06-15",
+   "last_amount": 2.32,
+   "next_ex_date": "2026-06-15",
+   "history": [
+    {
+     "ex_date": "2025-09-15",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2025-12-08",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2026-03-09",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2026-06-15",
+     "amount": 2.32
+    }
+   ]
+  },
+  {
    "symbol": "JNJ",
    "name": "Johnson & Johnson",
    "name_kr": "존슨앤드존슨",
@@ -2868,6 +2900,38 @@
     {
      "ex_date": "2026-07-02",
      "amount": 1.59
+    }
+   ]
+  },
+  {
+   "symbol": "ORCL",
+   "name": "Oracle",
+   "name_kr": "오라클",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 126.41,
+   "ttm_dividend": 2.0,
+   "ttm_yield": 1.58,
+   "last_ex_date": "2026-07-10",
+   "last_amount": 0.5,
+   "next_ex_date": "2026-07-10",
+   "history": [
+    {
+     "ex_date": "2025-10-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-01-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-04-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.5
     }
    ]
   },
@@ -3412,6 +3476,38 @@
    ]
   },
   {
+   "symbol": "TSM",
+   "name": "Taiwan Semiconductor (ADR)",
+   "name_kr": "TSMC",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 398.37,
+   "ttm_dividend": 3.568,
+   "ttm_yield": 0.9,
+   "last_ex_date": "2026-06-11",
+   "last_amount": 0.955,
+   "next_ex_date": "2026-09-16",
+   "history": [
+    {
+     "ex_date": "2025-09-16",
+     "amount": 0.822
+    },
+    {
+     "ex_date": "2025-12-11",
+     "amount": 0.835
+    },
+    {
+     "ex_date": "2026-03-17",
+     "amount": 0.956
+    },
+    {
+     "ex_date": "2026-06-11",
+     "amount": 0.955
+    }
+   ]
+  },
+  {
    "symbol": "CAH",
    "name": "Cardinal Health",
    "name_kr": "카디널헬스",
@@ -3684,6 +3780,70 @@
    ]
   },
   {
+   "symbol": "ASML",
+   "name": "ASML Holding",
+   "name_kr": "ASML",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 1747.58,
+   "ttm_dividend": 8.771,
+   "ttm_yield": 0.5,
+   "last_ex_date": "2026-04-27",
+   "last_amount": 3.177,
+   "next_ex_date": "2026-07-28",
+   "history": [
+    {
+     "ex_date": "2025-07-29",
+     "amount": 1.847
+    },
+    {
+     "ex_date": "2025-10-29",
+     "amount": 1.864
+    },
+    {
+     "ex_date": "2026-02-10",
+     "amount": 1.883
+    },
+    {
+     "ex_date": "2026-04-27",
+     "amount": 3.177
+    }
+   ]
+  },
+  {
+   "symbol": "META",
+   "name": "Meta Platforms",
+   "name_kr": "메타 플랫폼스",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 646.01,
+   "ttm_dividend": 2.1,
+   "ttm_yield": 0.33,
+   "last_ex_date": "2026-06-15",
+   "last_amount": 0.525,
+   "next_ex_date": "2026-06-15",
+   "history": [
+    {
+     "ex_date": "2025-09-22",
+     "amount": 0.525
+    },
+    {
+     "ex_date": "2025-12-15",
+     "amount": 0.525
+    },
+    {
+     "ex_date": "2026-03-16",
+     "amount": 0.525
+    },
+    {
+     "ex_date": "2026-06-15",
+     "amount": 0.525
+    }
+   ]
+  },
+  {
    "symbol": "AAPL",
    "name": "Apple",
    "name_kr": "애플",
@@ -3716,6 +3876,70 @@
    ]
   },
   {
+   "symbol": "GOOGL",
+   "name": "Alphabet (Class A)",
+   "name_kr": "알파벳 A",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 346.77,
+   "ttm_dividend": 0.85,
+   "ttm_yield": 0.25,
+   "last_ex_date": "2026-06-08",
+   "last_amount": 0.22,
+   "next_ex_date": "2026-06-08",
+   "history": [
+    {
+     "ex_date": "2025-09-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2025-12-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-03-09",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-06-08",
+     "amount": 0.22
+    }
+   ]
+  },
+  {
+   "symbol": "GOOG",
+   "name": "Alphabet (Class C)",
+   "name_kr": "알파벳 C",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 346.12,
+   "ttm_dividend": 0.85,
+   "ttm_yield": 0.25,
+   "last_ex_date": "2026-06-08",
+   "last_amount": 0.22,
+   "next_ex_date": "2026-06-08",
+   "history": [
+    {
+     "ex_date": "2025-09-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2025-12-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-03-09",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-06-08",
+     "amount": 0.22
+    }
+   ]
+  },
+  {
    "symbol": "WST",
    "name": "West Pharmaceutical Services",
    "name_kr": "웨스트 파마슈티컬",
@@ -3744,6 +3968,106 @@
     {
      "ex_date": "2026-04-29",
      "amount": 0.22
+    }
+   ]
+  },
+  {
+   "symbol": "GEV",
+   "name": "GE Vernova",
+   "name_kr": "GE버노바",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 1057.84,
+   "ttm_dividend": 2.0,
+   "ttm_yield": 0.19,
+   "last_ex_date": "2026-06-16",
+   "last_amount": 0.5,
+   "next_ex_date": "2026-06-16",
+   "history": [
+    {
+     "ex_date": "2025-07-21",
+     "amount": 0.25
+    },
+    {
+     "ex_date": "2025-10-20",
+     "amount": 0.25
+    },
+    {
+     "ex_date": "2026-01-05",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-03-17",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-06-16",
+     "amount": 0.5
+    }
+   ]
+  },
+  {
+   "symbol": "NVDA",
+   "name": "NVIDIA",
+   "name_kr": "엔비디아",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 202.81,
+   "ttm_dividend": 0.28,
+   "ttm_yield": 0.14,
+   "last_ex_date": "2026-06-04",
+   "last_amount": 0.25,
+   "next_ex_date": "2026-06-04",
+   "history": [
+    {
+     "ex_date": "2025-09-11",
+     "amount": 0.01
+    },
+    {
+     "ex_date": "2025-12-04",
+     "amount": 0.01
+    },
+    {
+     "ex_date": "2026-03-11",
+     "amount": 0.01
+    },
+    {
+     "ex_date": "2026-06-04",
+     "amount": 0.25
+    }
+   ]
+  },
+  {
+   "symbol": "MU",
+   "name": "Micron Technology",
+   "name_kr": "마이크론",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 848.95,
+   "ttm_dividend": 0.53,
+   "ttm_yield": 0.06,
+   "last_ex_date": "2026-07-06",
+   "last_amount": 0.15,
+   "next_ex_date": "2026-07-06",
+   "history": [
+    {
+     "ex_date": "2025-10-03",
+     "amount": 0.115
+    },
+    {
+     "ex_date": "2025-12-29",
+     "amount": 0.115
+    },
+    {
+     "ex_date": "2026-03-30",
+     "amount": 0.15
+    },
+    {
+     "ex_date": "2026-07-06",
+     "amount": 0.15
     }
    ]
   }

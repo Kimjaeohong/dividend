@@ -68,6 +68,17 @@ BASE_UNIVERSE = {
     "AVGO": {"name": "Broadcom", "name_kr": "브로드컴"},
     "MSFT": {"name": "Microsoft", "name_kr": "마이크로소프트"},
     "AAPL": {"name": "Apple", "name_kr": "애플"},
+    # 대형 기술주 배당 (2024~2025년 신규 배당 개시 포함)
+    "NVDA":  {"name": "NVIDIA", "name_kr": "엔비디아"},
+    "GOOGL": {"name": "Alphabet (Class A)", "name_kr": "알파벳 A"},
+    "GOOG":  {"name": "Alphabet (Class C)", "name_kr": "알파벳 C"},
+    "MU":    {"name": "Micron Technology", "name_kr": "마이크론"},
+    "TSM":   {"name": "Taiwan Semiconductor (ADR)", "name_kr": "TSMC"},
+    "META":  {"name": "Meta Platforms", "name_kr": "메타 플랫폼스"},
+    "UNH":   {"name": "UnitedHealth Group", "name_kr": "유나이티드헬스그룹"},
+    "ASML":  {"name": "ASML Holding", "name_kr": "ASML"},
+    "ORCL":  {"name": "Oracle", "name_kr": "오라클"},
+    "GEV":   {"name": "GE Vernova", "name_kr": "GE버노바"},
 }
 
 FREQ_LABEL = {"monthly": "월배당", "quarterly": "분기배당",
