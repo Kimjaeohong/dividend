@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-24 23:14 UTC",
+ "updated_at": "2026-07-25 23:09 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -202,7 +202,7 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 21.56,
+   "price": 21.55,
    "ttm_dividend": 2.409,
    "ttm_yield": 11.18,
    "last_ex_date": "2026-07-02",
@@ -1423,7 +1423,7 @@
    "ttm_yield": 3.64,
    "last_ex_date": "2026-06-08",
    "last_amount": 0.83,
-   "next_ex_date": "2026-06-08",
+   "next_ex_date": "2026-09-08",
    "history": [
     {
      "ex_date": "2025-09-02",
@@ -1856,6 +1856,38 @@
    ]
   },
   {
+   "symbol": "PG",
+   "name": "Procter & Gamble",
+   "name_kr": "프록터앤드갬블",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 147.41,
+   "ttm_dividend": 4.292,
+   "ttm_yield": 2.91,
+   "last_ex_date": "2026-07-24",
+   "last_amount": 1.089,
+   "next_ex_date": "2026-07-24",
+   "history": [
+    {
+     "ex_date": "2025-10-24",
+     "amount": 1.057
+    },
+    {
+     "ex_date": "2026-01-23",
+     "amount": 1.057
+    },
+    {
+     "ex_date": "2026-04-24",
+     "amount": 1.089
+    },
+    {
+     "ex_date": "2026-07-24",
+     "amount": 1.089
+    }
+   ]
+  },
+  {
    "symbol": "MCD",
    "name": "McDonald's",
    "name_kr": "맥도날드",
@@ -1867,7 +1899,7 @@
    "ttm_yield": 2.78,
    "last_ex_date": "2026-06-02",
    "last_amount": 1.86,
-   "next_ex_date": "2026-06-02",
+   "next_ex_date": "2026-09-01",
    "history": [
     {
      "ex_date": "2025-09-02",
@@ -2347,7 +2379,7 @@
    "ttm_yield": 2.34,
    "last_ex_date": "2026-06-01",
    "last_amount": 3.45,
-   "next_ex_date": "2026-06-01",
+   "next_ex_date": "2026-09-01",
    "history": [
     {
      "ex_date": "2025-09-02",
@@ -2524,34 +2556,6 @@
     {
      "ex_date": "2026-06-18",
      "amount": 0.98
-    }
-   ]
-  },
-  {
-   "symbol": "PG",
-   "name": "Procter & Gamble",
-   "name_kr": "프록터앤드갬블",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 147.41,
-   "ttm_dividend": 3.203,
-   "ttm_yield": 2.17,
-   "last_ex_date": "2026-04-24",
-   "last_amount": 1.089,
-   "next_ex_date": "2026-07-24",
-   "history": [
-    {
-     "ex_date": "2025-10-24",
-     "amount": 1.057
-    },
-    {
-     "ex_date": "2026-01-23",
-     "amount": 1.057
-    },
-    {
-     "ex_date": "2026-04-24",
-     "amount": 1.089
     }
    ]
   },
@@ -2908,6 +2912,38 @@
    ]
   },
   {
+   "symbol": "PNR",
+   "name": "Pentair",
+   "name_kr": "펜테어",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 62.88,
+   "ttm_dividend": 1.06,
+   "ttm_yield": 1.69,
+   "last_ex_date": "2026-07-24",
+   "last_amount": 0.27,
+   "next_ex_date": "2026-07-24",
+   "history": [
+    {
+     "ex_date": "2025-10-24",
+     "amount": 0.25
+    },
+    {
+     "ex_date": "2026-01-23",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-04-17",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-07-24",
+     "amount": 0.27
+    }
+   ]
+  },
+  {
    "symbol": "GD",
    "name": "General Dynamics",
    "name_kr": "제너럴 다이내믹스",
@@ -3106,7 +3142,7 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 186.51,
+   "price": 186.5,
    "ttm_dividend": 2.51,
    "ttm_yield": 1.35,
    "last_ex_date": "2026-06-05",
@@ -3128,34 +3164,6 @@
     {
      "ex_date": "2026-06-05",
      "amount": 0.63
-    }
-   ]
-  },
-  {
-   "symbol": "PNR",
-   "name": "Pentair",
-   "name_kr": "펜테어",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 62.88,
-   "ttm_dividend": 0.79,
-   "ttm_yield": 1.26,
-   "last_ex_date": "2026-04-17",
-   "last_amount": 0.27,
-   "next_ex_date": "2026-07-24",
-   "history": [
-    {
-     "ex_date": "2025-10-24",
-     "amount": 0.25
-    },
-    {
-     "ex_date": "2026-01-23",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-04-17",
-     "amount": 0.27
     }
    ]
   },
@@ -3891,7 +3899,7 @@
    "ttm_yield": 0.27,
    "last_ex_date": "2026-06-08",
    "last_amount": 0.22,
-   "next_ex_date": "2026-06-08",
+   "next_ex_date": "2026-09-04",
    "history": [
     {
      "ex_date": "2025-09-08",
@@ -3923,7 +3931,7 @@
    "ttm_yield": 0.27,
    "last_ex_date": "2026-06-08",
    "last_amount": 0.22,
-   "next_ex_date": "2026-06-08",
+   "next_ex_date": "2026-09-04",
    "history": [
     {
      "ex_date": "2025-09-08",
