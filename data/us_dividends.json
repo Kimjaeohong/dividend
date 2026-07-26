@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-25 23:09 UTC",
+ "updated_at": "2026-07-26 23:10 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -202,7 +202,7 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 21.55,
+   "price": 21.56,
    "ttm_dividend": 2.409,
    "ttm_yield": 11.18,
    "last_ex_date": "2026-07-02",
@@ -3142,7 +3142,7 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 186.5,
+   "price": 186.51,
    "ttm_dividend": 2.51,
    "ttm_yield": 1.35,
    "last_ex_date": "2026-06-05",
