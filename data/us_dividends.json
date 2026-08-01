@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-31 23:15 UTC",
+ "updated_at": "2026-08-01 23:07 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -11,9 +11,9 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 10.66,
-   "ttm_dividend": 1.32,
-   "ttm_yield": 12.38,
-   "last_ex_date": "2026-06-30",
+   "ttm_dividend": 1.44,
+   "ttm_yield": 13.51,
+   "last_ex_date": "2026-07-31",
    "last_amount": 0.12,
    "next_ex_date": "2026-07-31",
    "history": [
@@ -59,6 +59,10 @@
     },
     {
      "ex_date": "2026-06-30",
+     "amount": 0.12
+    },
+    {
+     "ex_date": "2026-07-31",
      "amount": 0.12
     }
    ]
@@ -256,70 +260,6 @@
    ]
   },
   {
-   "symbol": "JEPQ",
-   "name": "JPMorgan Nasdaq Equity Premium",
-   "name_kr": "JP모건 나스닥 프리미엄 인컴",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 58.25,
-   "ttm_dividend": 6.263,
-   "ttm_yield": 10.75,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 0.637,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-08-01",
-     "amount": 0.444
-    },
-    {
-     "ex_date": "2025-09-02",
-     "amount": 0.442
-    },
-    {
-     "ex_date": "2025-10-01",
-     "amount": 0.446
-    },
-    {
-     "ex_date": "2025-11-03",
-     "amount": 0.476
-    },
-    {
-     "ex_date": "2025-12-01",
-     "amount": 0.553
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.576
-    },
-    {
-     "ex_date": "2026-02-02",
-     "amount": 0.466
-    },
-    {
-     "ex_date": "2026-03-02",
-     "amount": 0.509
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 0.559
-    },
-    {
-     "ex_date": "2026-05-01",
-     "amount": 0.591
-    },
-    {
-     "ex_date": "2026-06-01",
-     "amount": 0.564
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 0.637
-    }
-   ]
-  },
-  {
    "symbol": "XYLD",
    "name": "Global X S&P 500 Covered Call",
    "name_kr": "글로벌X S&P500 커버드콜",
@@ -384,6 +324,66 @@
    ]
   },
   {
+   "symbol": "JEPQ",
+   "name": "JPMorgan Nasdaq Equity Premium",
+   "name_kr": "JP모건 나스닥 프리미엄 인컴",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 58.25,
+   "ttm_dividend": 5.819,
+   "ttm_yield": 9.99,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 0.637,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-09-02",
+     "amount": 0.442
+    },
+    {
+     "ex_date": "2025-10-01",
+     "amount": 0.446
+    },
+    {
+     "ex_date": "2025-11-03",
+     "amount": 0.476
+    },
+    {
+     "ex_date": "2025-12-01",
+     "amount": 0.553
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.576
+    },
+    {
+     "ex_date": "2026-02-02",
+     "amount": 0.466
+    },
+    {
+     "ex_date": "2026-03-02",
+     "amount": 0.509
+    },
+    {
+     "ex_date": "2026-04-01",
+     "amount": 0.559
+    },
+    {
+     "ex_date": "2026-05-01",
+     "amount": 0.591
+    },
+    {
+     "ex_date": "2026-06-01",
+     "amount": 0.564
+    },
+    {
+     "ex_date": "2026-07-01",
+     "amount": 0.637
+    }
+   ]
+  },
+  {
    "symbol": "SDIV",
    "name": "Global X SuperDividend",
    "name_kr": "글로벌X 슈퍼디비던드",
@@ -444,70 +444,6 @@
     {
      "ex_date": "2026-07-06",
      "amount": 0.18
-    }
-   ]
-  },
-  {
-   "symbol": "JEPI",
-   "name": "JPMorgan Equity Premium Income",
-   "name_kr": "JP모건 에쿼티 프리미엄 인컴",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 57.43,
-   "ttm_dividend": 4.571,
-   "ttm_yield": 7.96,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 0.387,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-08-01",
-     "amount": 0.358
-    },
-    {
-     "ex_date": "2025-09-02",
-     "amount": 0.368
-    },
-    {
-     "ex_date": "2025-10-01",
-     "amount": 0.361
-    },
-    {
-     "ex_date": "2025-11-03",
-     "amount": 0.346
-    },
-    {
-     "ex_date": "2025-12-01",
-     "amount": 0.371
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.427
-    },
-    {
-     "ex_date": "2026-02-02",
-     "amount": 0.344
-    },
-    {
-     "ex_date": "2026-03-02",
-     "amount": 0.351
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 0.421
-    },
-    {
-     "ex_date": "2026-05-01",
-     "amount": 0.448
-    },
-    {
-     "ex_date": "2026-06-01",
-     "amount": 0.389
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 0.387
     }
    ]
   },
@@ -588,6 +524,66 @@
     {
      "ex_date": "2026-07-08",
      "amount": 0.265
+    }
+   ]
+  },
+  {
+   "symbol": "JEPI",
+   "name": "JPMorgan Equity Premium Income",
+   "name_kr": "JP모건 에쿼티 프리미엄 인컴",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 57.43,
+   "ttm_dividend": 4.213,
+   "ttm_yield": 7.34,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 0.387,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-09-02",
+     "amount": 0.368
+    },
+    {
+     "ex_date": "2025-10-01",
+     "amount": 0.361
+    },
+    {
+     "ex_date": "2025-11-03",
+     "amount": 0.346
+    },
+    {
+     "ex_date": "2025-12-01",
+     "amount": 0.371
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.427
+    },
+    {
+     "ex_date": "2026-02-02",
+     "amount": 0.344
+    },
+    {
+     "ex_date": "2026-03-02",
+     "amount": 0.351
+    },
+    {
+     "ex_date": "2026-04-01",
+     "amount": 0.421
+    },
+    {
+     "ex_date": "2026-05-01",
+     "amount": 0.448
+    },
+    {
+     "ex_date": "2026-06-01",
+     "amount": 0.389
+    },
+    {
+     "ex_date": "2026-07-01",
+     "amount": 0.387
     }
    ]
   },
@@ -720,70 +716,6 @@
    ]
   },
   {
-   "symbol": "PFF",
-   "name": "iShares Preferred & Income",
-   "name_kr": "아이셰어즈 우선주",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 30.47,
-   "ttm_dividend": 1.677,
-   "ttm_yield": 5.5,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 0.142,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-08-01",
-     "amount": 0.162
-    },
-    {
-     "ex_date": "2025-09-02",
-     "amount": 0.161
-    },
-    {
-     "ex_date": "2025-10-01",
-     "amount": 0.171
-    },
-    {
-     "ex_date": "2025-11-03",
-     "amount": 0.171
-    },
-    {
-     "ex_date": "2025-12-01",
-     "amount": 0.176
-    },
-    {
-     "ex_date": "2025-12-19",
-     "amount": 0.066
-    },
-    {
-     "ex_date": "2026-02-02",
-     "amount": 0.177
-    },
-    {
-     "ex_date": "2026-03-02",
-     "amount": 0.031
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 0.142
-    },
-    {
-     "ex_date": "2026-05-01",
-     "amount": 0.14
-    },
-    {
-     "ex_date": "2026-06-01",
-     "amount": 0.138
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 0.142
-    }
-   ]
-  },
-  {
    "symbol": "EPR",
    "name": "EPR Properties",
    "name_kr": "EPR 프로퍼티스",
@@ -791,9 +723,9 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 62.07,
-   "ttm_dividend": 3.305,
-   "ttm_yield": 5.32,
-   "last_ex_date": "2026-06-30",
+   "ttm_dividend": 3.615,
+   "ttm_yield": 5.82,
+   "last_ex_date": "2026-07-31",
    "last_amount": 0.31,
    "next_ex_date": "2026-07-31",
    "history": [
@@ -840,6 +772,10 @@
     {
      "ex_date": "2026-06-30",
      "amount": 0.31
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.31
     }
    ]
   },
@@ -883,16 +819,12 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 63.87,
-   "ttm_dividend": 3.242,
+   "ttm_dividend": 3.244,
    "ttm_yield": 5.08,
-   "last_ex_date": "2026-06-30",
+   "last_ex_date": "2026-07-31",
    "last_amount": 0.271,
    "next_ex_date": "2026-07-31",
    "history": [
-    {
-     "ex_date": "2025-08-01",
-     "amount": 0.269
-    },
     {
      "ex_date": "2025-09-02",
      "amount": 0.269
@@ -936,6 +868,70 @@
     {
      "ex_date": "2026-06-30",
      "amount": 0.271
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.271
+    }
+   ]
+  },
+  {
+   "symbol": "PFF",
+   "name": "iShares Preferred & Income",
+   "name_kr": "아이셰어즈 우선주",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 30.47,
+   "ttm_dividend": 1.515,
+   "ttm_yield": 4.97,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 0.142,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-09-02",
+     "amount": 0.161
+    },
+    {
+     "ex_date": "2025-10-01",
+     "amount": 0.171
+    },
+    {
+     "ex_date": "2025-11-03",
+     "amount": 0.171
+    },
+    {
+     "ex_date": "2025-12-01",
+     "amount": 0.176
+    },
+    {
+     "ex_date": "2025-12-19",
+     "amount": 0.066
+    },
+    {
+     "ex_date": "2026-02-02",
+     "amount": 0.177
+    },
+    {
+     "ex_date": "2026-03-02",
+     "amount": 0.031
+    },
+    {
+     "ex_date": "2026-04-01",
+     "amount": 0.142
+    },
+    {
+     "ex_date": "2026-05-01",
+     "amount": 0.14
+    },
+    {
+     "ex_date": "2026-06-01",
+     "amount": 0.138
+    },
+    {
+     "ex_date": "2026-07-01",
+     "amount": 0.142
     }
    ]
   },
@@ -1411,7 +1407,7 @@
    "ttm_yield": 3.64,
    "last_ex_date": "2026-07-01",
    "last_amount": 1.13,
-   "next_ex_date": "2026-07-01",
+   "next_ex_date": "2026-10-01",
    "history": [
     {
      "ex_date": "2025-10-01",
@@ -1475,7 +1471,7 @@
    "ttm_yield": 3.55,
    "last_ex_date": "2026-05-19",
    "last_amount": 1.78,
-   "next_ex_date": "2026-05-19",
+   "next_ex_date": "2026-08-19",
    "history": [
     {
      "ex_date": "2025-08-19",
@@ -1919,7 +1915,7 @@
    "ttm_yield": 2.74,
    "last_ex_date": "2026-06-05",
    "last_amount": 0.623,
-   "next_ex_date": "2026-06-05",
+   "next_ex_date": "2026-08-28",
    "history": [
     {
      "ex_date": "2025-08-28",
@@ -2192,6 +2188,38 @@
     {
      "ex_date": "2026-07-01",
      "amount": 1.81
+    }
+   ]
+  },
+  {
+   "symbol": "AOS",
+   "name": "A.O. Smith",
+   "name_kr": "A.O. 스미스",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 60.13,
+   "ttm_dividend": 1.44,
+   "ttm_yield": 2.39,
+   "last_ex_date": "2026-07-31",
+   "last_amount": 0.36,
+   "next_ex_date": "2026-07-31",
+   "history": [
+    {
+     "ex_date": "2025-10-31",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.36
     }
    ]
   },
@@ -2768,34 +2796,6 @@
     {
      "ex_date": "2026-05-20",
      "amount": 0.61
-    }
-   ]
-  },
-  {
-   "symbol": "AOS",
-   "name": "A.O. Smith",
-   "name_kr": "A.O. 스미스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 60.13,
-   "ttm_dividend": 1.08,
-   "ttm_yield": 1.8,
-   "last_ex_date": "2026-04-30",
-   "last_amount": 0.36,
-   "next_ex_date": "2026-07-31",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.36
     }
    ]
   },
@@ -3851,7 +3851,7 @@
    "ttm_yield": 0.34,
    "last_ex_date": "2026-05-11",
    "last_amount": 0.27,
-   "next_ex_date": "2026-05-11",
+   "next_ex_date": "2026-08-10",
    "history": [
     {
      "ex_date": "2025-08-11",
