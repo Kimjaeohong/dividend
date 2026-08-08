@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-08-07 22:52 UTC",
+ "updated_at": "2026-08-08 22:43 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -523,16 +523,12 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 58.94,
-   "ttm_dividend": 4.3,
-   "ttm_yield": 7.3,
-   "last_ex_date": "2026-07-08",
+   "ttm_dividend": 4.31,
+   "ttm_yield": 7.31,
+   "last_ex_date": "2026-08-07",
    "last_amount": 0.265,
-   "next_ex_date": "2026-08-07",
+   "next_ex_date": "2026-09-08",
    "history": [
-    {
-     "ex_date": "2025-08-08",
-     "amount": 0.255
-    },
     {
      "ex_date": "2025-09-08",
      "amount": 0.255
@@ -591,6 +587,10 @@
     },
     {
      "ex_date": "2026-07-08",
+     "amount": 0.265
+    },
+    {
+     "ex_date": "2026-08-07",
      "amount": 0.265
     }
    ]
@@ -1119,7 +1119,7 @@
    "ttm_yield": 4.51,
    "last_ex_date": "2026-06-15",
    "last_amount": 1.3,
-   "next_ex_date": "2026-06-15",
+   "next_ex_date": "2026-09-15",
    "history": [
     {
      "ex_date": "2025-09-15",
@@ -1828,38 +1828,6 @@
    ]
   },
   {
-   "symbol": "IBM",
-   "name": "IBM",
-   "name_kr": "IBM",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 237.28,
-   "ttm_dividend": 6.73,
-   "ttm_yield": 2.84,
-   "last_ex_date": "2026-05-08",
-   "last_amount": 1.69,
-   "next_ex_date": "2026-08-10",
-   "history": [
-    {
-     "ex_date": "2025-08-08",
-     "amount": 1.68
-    },
-    {
-     "ex_date": "2025-11-10",
-     "amount": 1.68
-    },
-    {
-     "ex_date": "2026-02-10",
-     "amount": 1.68
-    },
-    {
-     "ex_date": "2026-05-08",
-     "amount": 1.69
-    }
-   ]
-  },
-  {
    "symbol": "NEE",
    "name": "NextEra Energy",
    "name_kr": "넥스트에라 에너지",
@@ -2375,7 +2343,7 @@
    "ttm_yield": 2.27,
    "last_ex_date": "2026-05-26",
    "last_amount": 1.0,
-   "next_ex_date": "2026-05-26",
+   "next_ex_date": "2026-08-24",
    "history": [
     {
      "ex_date": "2025-08-25",
@@ -2584,6 +2552,34 @@
     {
      "ex_date": "2026-07-22",
      "amount": 1.25
+    }
+   ]
+  },
+  {
+   "symbol": "IBM",
+   "name": "IBM",
+   "name_kr": "IBM",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 237.28,
+   "ttm_dividend": 5.05,
+   "ttm_yield": 2.13,
+   "last_ex_date": "2026-05-08",
+   "last_amount": 1.69,
+   "next_ex_date": "2026-08-10",
+   "history": [
+    {
+     "ex_date": "2025-11-10",
+     "amount": 1.68
+    },
+    {
+     "ex_date": "2026-02-10",
+     "amount": 1.68
+    },
+    {
+     "ex_date": "2026-05-08",
+     "amount": 1.69
     }
    ]
   },
