@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-01 01:16 UTC",
+ "updated_at": "2026-09-02 00:06 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -10,10 +10,10 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 10.73,
-   "ttm_dividend": 1.32,
-   "ttm_yield": 12.3,
-   "last_ex_date": "2026-07-31",
+   "price": 10.6,
+   "ttm_dividend": 1.44,
+   "ttm_yield": 13.58,
+   "last_ex_date": "2026-08-31",
    "last_amount": 0.12,
    "next_ex_date": "2026-08-31",
    "history": [
@@ -60,70 +60,10 @@
     {
      "ex_date": "2026-07-31",
      "amount": 0.12
-    }
-   ]
-  },
-  {
-   "symbol": "QYLD",
-   "name": "Global X Nasdaq 100 Covered Call",
-   "name_kr": "글로벌X 나스닥100 커버드콜",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 18.28,
-   "ttm_dividend": 2.126,
-   "ttm_yield": 11.63,
-   "last_ex_date": "2026-08-24",
-   "last_amount": 0.183,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-09-22",
-     "amount": 0.17
     },
     {
-     "ex_date": "2025-10-20",
-     "amount": 0.173
-    },
-    {
-     "ex_date": "2025-11-24",
-     "amount": 0.173
-    },
-    {
-     "ex_date": "2025-12-22",
-     "amount": 0.178
-    },
-    {
-     "ex_date": "2026-01-20",
-     "amount": 0.179
-    },
-    {
-     "ex_date": "2026-02-23",
-     "amount": 0.177
-    },
-    {
-     "ex_date": "2026-03-23",
-     "amount": 0.172
-    },
-    {
-     "ex_date": "2026-04-20",
-     "amount": 0.179
-    },
-    {
-     "ex_date": "2026-05-18",
-     "amount": 0.179
-    },
-    {
-     "ex_date": "2026-06-22",
-     "amount": 0.185
-    },
-    {
-     "ex_date": "2026-07-20",
-     "amount": 0.178
-    },
-    {
-     "ex_date": "2026-08-24",
-     "amount": 0.183
+     "ex_date": "2026-08-31",
+     "amount": 0.12
     }
    ]
   },
@@ -134,9 +74,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 16.16,
+   "price": 16.0,
    "ttm_dividend": 1.877,
-   "ttm_yield": 11.62,
+   "ttm_yield": 11.73,
    "last_ex_date": "2026-08-24",
    "last_amount": 0.165,
    "next_ex_date": null,
@@ -192,66 +132,66 @@
    ]
   },
   {
-   "symbol": "TLTW",
-   "name": "iShares 20+ Treasury BuyWrite",
-   "name_kr": "아이셰어즈 미국채 20년+ 커버드콜",
+   "symbol": "QYLD",
+   "name": "Global X Nasdaq 100 Covered Call",
+   "name_kr": "글로벌X 나스닥100 커버드콜",
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 21.33,
-   "ttm_dividend": 2.33,
-   "ttm_yield": 10.92,
-   "last_ex_date": "2026-08-04",
-   "last_amount": 0.152,
+   "price": 18.17,
+   "ttm_dividend": 2.126,
+   "ttm_yield": 11.7,
+   "last_ex_date": "2026-08-24",
+   "last_amount": 0.183,
    "next_ex_date": null,
    "history": [
     {
-     "ex_date": "2025-09-03",
-     "amount": 0.218
+     "ex_date": "2025-09-22",
+     "amount": 0.17
     },
     {
-     "ex_date": "2025-10-02",
-     "amount": 0.145
+     "ex_date": "2025-10-20",
+     "amount": 0.173
     },
     {
-     "ex_date": "2025-11-04",
-     "amount": 0.378
+     "ex_date": "2025-11-24",
+     "amount": 0.173
     },
     {
-     "ex_date": "2025-12-02",
-     "amount": 0.188
+     "ex_date": "2025-12-22",
+     "amount": 0.178
     },
     {
-     "ex_date": "2025-12-23",
-     "amount": 0.187
+     "ex_date": "2026-01-20",
+     "amount": 0.179
     },
     {
-     "ex_date": "2026-02-03",
-     "amount": 0.174
+     "ex_date": "2026-02-23",
+     "amount": 0.177
     },
     {
-     "ex_date": "2026-03-03",
-     "amount": 0.204
+     "ex_date": "2026-03-23",
+     "amount": 0.172
     },
     {
-     "ex_date": "2026-04-02",
-     "amount": 0.211
+     "ex_date": "2026-04-20",
+     "amount": 0.179
     },
     {
-     "ex_date": "2026-05-04",
-     "amount": 0.121
+     "ex_date": "2026-05-18",
+     "amount": 0.179
     },
     {
-     "ex_date": "2026-06-02",
-     "amount": 0.217
+     "ex_date": "2026-06-22",
+     "amount": 0.185
     },
     {
-     "ex_date": "2026-07-02",
-     "amount": 0.135
+     "ex_date": "2026-07-20",
+     "amount": 0.178
     },
     {
-     "ex_date": "2026-08-04",
-     "amount": 0.152
+     "ex_date": "2026-08-24",
+     "amount": 0.183
     }
    ]
   },
@@ -262,9 +202,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 60.22,
+   "price": 59.0,
    "ttm_dividend": 6.524,
-   "ttm_yield": 10.83,
+   "ttm_yield": 11.06,
    "last_ex_date": "2026-08-03",
    "last_amount": 0.705,
    "next_ex_date": null,
@@ -320,15 +260,79 @@
    ]
   },
   {
+   "symbol": "TLTW",
+   "name": "iShares 20+ Treasury BuyWrite",
+   "name_kr": "아이셰어즈 미국채 20년+ 커버드콜",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 21.25,
+   "ttm_dividend": 2.33,
+   "ttm_yield": 10.96,
+   "last_ex_date": "2026-08-04",
+   "last_amount": 0.152,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-09-03",
+     "amount": 0.218
+    },
+    {
+     "ex_date": "2025-10-02",
+     "amount": 0.145
+    },
+    {
+     "ex_date": "2025-11-04",
+     "amount": 0.378
+    },
+    {
+     "ex_date": "2025-12-02",
+     "amount": 0.188
+    },
+    {
+     "ex_date": "2025-12-23",
+     "amount": 0.187
+    },
+    {
+     "ex_date": "2026-02-03",
+     "amount": 0.174
+    },
+    {
+     "ex_date": "2026-03-03",
+     "amount": 0.204
+    },
+    {
+     "ex_date": "2026-04-02",
+     "amount": 0.211
+    },
+    {
+     "ex_date": "2026-05-04",
+     "amount": 0.121
+    },
+    {
+     "ex_date": "2026-06-02",
+     "amount": 0.217
+    },
+    {
+     "ex_date": "2026-07-02",
+     "amount": 0.135
+    },
+    {
+     "ex_date": "2026-08-04",
+     "amount": 0.152
+    }
+   ]
+  },
+  {
    "symbol": "XYLD",
    "name": "Global X S&P 500 Covered Call",
    "name_kr": "글로벌X S&P500 커버드콜",
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 41.48,
+   "price": 41.32,
    "ttm_dividend": 4.329,
-   "ttm_yield": 10.44,
+   "ttm_yield": 10.48,
    "last_ex_date": "2026-08-24",
    "last_amount": 0.311,
    "next_ex_date": null,
@@ -390,9 +394,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 24.91,
+   "price": 24.86,
    "ttm_dividend": 2.247,
-   "ttm_yield": 9.02,
+   "ttm_yield": 9.04,
    "last_ex_date": "2026-08-05",
    "last_amount": 0.18,
    "next_ex_date": null,
@@ -454,9 +458,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 57.5,
+   "price": 57.0,
    "ttm_dividend": 4.58,
-   "ttm_yield": 7.97,
+   "ttm_yield": 8.04,
    "last_ex_date": "2026-08-03",
    "last_amount": 0.367,
    "next_ex_date": null,
@@ -518,9 +522,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 58.92,
+   "price": 57.97,
    "ttm_dividend": 4.31,
-   "ttm_yield": 7.32,
+   "ttm_yield": 7.43,
    "last_ex_date": "2026-08-07",
    "last_amount": 0.265,
    "next_ex_date": "2026-09-08",
@@ -598,9 +602,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 48.29,
+   "price": 48.12,
    "ttm_dividend": 3.005,
-   "ttm_yield": 6.22,
+   "ttm_yield": 6.24,
    "last_ex_date": "2026-08-28",
    "last_amount": 0.195,
    "next_ex_date": null,
@@ -656,48 +660,16 @@
    ]
   },
   {
-   "symbol": "MO",
-   "name": "Altria",
-   "name_kr": "알트리아",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 68.48,
-   "ttm_dividend": 4.24,
-   "ttm_yield": 6.19,
-   "last_ex_date": "2026-06-15",
-   "last_amount": 1.06,
-   "next_ex_date": "2026-09-15",
-   "history": [
-    {
-     "ex_date": "2025-09-15",
-     "amount": 1.06
-    },
-    {
-     "ex_date": "2025-12-26",
-     "amount": 1.06
-    },
-    {
-     "ex_date": "2026-03-25",
-     "amount": 1.06
-    },
-    {
-     "ex_date": "2026-06-15",
-     "amount": 1.06
-    }
-   ]
-  },
-  {
    "symbol": "EPR",
    "name": "EPR Properties",
    "name_kr": "EPR 프로퍼티스",
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 58.71,
-   "ttm_dividend": 3.32,
-   "ttm_yield": 5.65,
-   "last_ex_date": "2026-07-31",
+   "price": 59.36,
+   "ttm_dividend": 3.63,
+   "ttm_yield": 6.12,
+   "last_ex_date": "2026-08-31",
    "last_amount": 0.31,
    "next_ex_date": "2026-08-31",
    "history": [
@@ -744,6 +716,110 @@
     {
      "ex_date": "2026-07-31",
      "amount": 0.31
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 0.31
+    }
+   ]
+  },
+  {
+   "symbol": "MO",
+   "name": "Altria",
+   "name_kr": "알트리아",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 69.57,
+   "ttm_dividend": 4.24,
+   "ttm_yield": 6.09,
+   "last_ex_date": "2026-06-15",
+   "last_amount": 1.06,
+   "next_ex_date": "2026-09-15",
+   "history": [
+    {
+     "ex_date": "2025-09-15",
+     "amount": 1.06
+    },
+    {
+     "ex_date": "2025-12-26",
+     "amount": 1.06
+    },
+    {
+     "ex_date": "2026-03-25",
+     "amount": 1.06
+    },
+    {
+     "ex_date": "2026-06-15",
+     "amount": 1.06
+    }
+   ]
+  },
+  {
+   "symbol": "O",
+   "name": "Realty Income",
+   "name_kr": "리얼티인컴",
+   "tier": "aristocrat",
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 61.36,
+   "ttm_dividend": 3.515,
+   "ttm_yield": 5.73,
+   "last_ex_date": "2026-08-31",
+   "last_amount": 0.271,
+   "next_ex_date": "2026-08-31",
+   "history": [
+    {
+     "ex_date": "2025-09-02",
+     "amount": 0.269
+    },
+    {
+     "ex_date": "2025-10-01",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2025-10-31",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2025-11-28",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-02-27",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-03-31",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-05-29",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-06-30",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 0.271
     }
    ]
   },
@@ -754,9 +830,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 50.02,
+   "price": 50.3,
    "ttm_dividend": 2.796,
-   "ttm_yield": 5.59,
+   "ttm_yield": 5.56,
    "last_ex_date": "2026-07-10",
    "last_amount": 0.708,
    "next_ex_date": "2026-07-10",
@@ -786,9 +862,9 @@
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 30.44,
+   "price": 30.1,
    "ttm_dividend": 1.657,
-   "ttm_yield": 5.44,
+   "ttm_yield": 5.5,
    "last_ex_date": "2026-08-03",
    "last_amount": 0.142,
    "next_ex_date": null,
@@ -850,9 +926,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 21.85,
+   "price": 21.99,
    "ttm_dividend": 1.169,
-   "ttm_yield": 5.35,
+   "ttm_yield": 5.32,
    "last_ex_date": "2026-07-13",
    "last_amount": 0.293,
    "next_ex_date": "2026-07-13",
@@ -876,79 +952,15 @@
    ]
   },
   {
-   "symbol": "O",
-   "name": "Realty Income",
-   "name_kr": "리얼티인컴",
-   "tier": "aristocrat",
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 61.28,
-   "ttm_dividend": 3.244,
-   "ttm_yield": 5.29,
-   "last_ex_date": "2026-07-31",
-   "last_amount": 0.271,
-   "next_ex_date": "2026-08-31",
-   "history": [
-    {
-     "ex_date": "2025-09-02",
-     "amount": 0.269
-    },
-    {
-     "ex_date": "2025-10-01",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2025-11-28",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-02-27",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-03-31",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-05-29",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-06-30",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-07-31",
-     "amount": 0.271
-    }
-   ]
-  },
-  {
    "symbol": "CLX",
    "name": "Clorox",
    "name_kr": "클로록스",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 97.68,
+   "price": 94.97,
    "ttm_dividend": 4.97,
-   "ttm_yield": 5.09,
+   "ttm_yield": 5.23,
    "last_ex_date": "2026-08-12",
    "last_amount": 1.25,
    "next_ex_date": "2026-08-12",
@@ -978,9 +990,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 107.95,
+   "price": 107.08,
    "ttm_dividend": 5.08,
-   "ttm_yield": 4.71,
+   "ttm_yield": 4.74,
    "last_ex_date": "2026-06-05",
    "last_amount": 1.28,
    "next_ex_date": "2026-09-04",
@@ -1000,6 +1012,38 @@
     {
      "ex_date": "2026-06-05",
      "amount": 1.28
+    }
+   ]
+  },
+  {
+   "symbol": "TROW",
+   "name": "T. Rowe Price",
+   "name_kr": "T. 로우 프라이스",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 108.97,
+   "ttm_dividend": 5.14,
+   "ttm_yield": 4.72,
+   "last_ex_date": "2026-06-15",
+   "last_amount": 1.3,
+   "next_ex_date": "2026-09-15",
+   "history": [
+    {
+     "ex_date": "2025-09-15",
+     "amount": 1.27
+    },
+    {
+     "ex_date": "2025-12-15",
+     "amount": 1.27
+    },
+    {
+     "ex_date": "2026-03-16",
+     "amount": 1.3
+    },
+    {
+     "ex_date": "2026-06-15",
+     "amount": 1.3
     }
    ]
   },
@@ -1068,47 +1112,15 @@
    ]
   },
   {
-   "symbol": "TROW",
-   "name": "T. Rowe Price",
-   "name_kr": "T. 로우 프라이스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 111.28,
-   "ttm_dividend": 5.14,
-   "ttm_yield": 4.62,
-   "last_ex_date": "2026-06-15",
-   "last_amount": 1.3,
-   "next_ex_date": "2026-09-15",
-   "history": [
-    {
-     "ex_date": "2025-09-15",
-     "amount": 1.27
-    },
-    {
-     "ex_date": "2025-12-15",
-     "amount": 1.27
-    },
-    {
-     "ex_date": "2026-03-16",
-     "amount": 1.3
-    },
-    {
-     "ex_date": "2026-06-15",
-     "amount": 1.3
-    }
-   ]
-  },
-  {
    "symbol": "KVUE",
    "name": "Kenvue",
    "name_kr": "켄뷰",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 18.88,
+   "price": 18.75,
    "ttm_dividend": 0.834,
-   "ttm_yield": 4.42,
+   "ttm_yield": 4.45,
    "last_ex_date": "2026-08-12",
    "last_amount": 0.21,
    "next_ex_date": "2026-08-12",
@@ -1138,9 +1150,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 70.14,
+   "price": 70.5,
    "ttm_dividend": 3.082,
-   "ttm_yield": 4.39,
+   "ttm_yield": 4.37,
    "last_ex_date": "2026-05-18",
    "last_amount": 0.788,
    "next_ex_date": "2026-05-18",
@@ -1170,9 +1182,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 25.89,
+   "price": 26.0,
    "ttm_dividend": 1.112,
-   "ttm_yield": 4.3,
+   "ttm_yield": 4.28,
    "last_ex_date": "2026-07-10",
    "last_amount": 0.278,
    "next_ex_date": "2026-07-10",
@@ -1202,9 +1214,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 140.34,
+   "price": 139.79,
    "ttm_dividend": 5.749,
-   "ttm_yield": 4.1,
+   "ttm_yield": 4.11,
    "last_ex_date": "2026-06-05",
    "last_amount": 1.48,
    "next_ex_date": "2026-09-04",
@@ -1234,9 +1246,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 49.62,
+   "price": 49.54,
    "ttm_dividend": 2.031,
-   "ttm_yield": 4.09,
+   "ttm_yield": 4.1,
    "last_ex_date": "2026-06-22",
    "last_amount": 0.543,
    "next_ex_date": null,
@@ -1260,47 +1272,15 @@
    ]
   },
   {
-   "symbol": "FRT",
-   "name": "Federal Realty Investment Trust",
-   "name_kr": "페더럴 리얼티",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 116.03,
-   "ttm_dividend": 4.52,
-   "ttm_yield": 3.9,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 1.13,
-   "next_ex_date": "2026-10-01",
-   "history": [
-    {
-     "ex_date": "2025-10-01",
-     "amount": 1.13
-    },
-    {
-     "ex_date": "2026-01-02",
-     "amount": 1.13
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 1.13
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 1.13
-    }
-   ]
-  },
-  {
    "symbol": "BEN",
    "name": "Franklin Resources",
    "name_kr": "프랭클린 리소시스",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 34.15,
+   "price": 33.1,
    "ttm_dividend": 1.31,
-   "ttm_yield": 3.84,
+   "ttm_yield": 3.96,
    "last_ex_date": "2026-06-29",
    "last_amount": 0.33,
    "next_ex_date": "2026-09-30",
@@ -1324,15 +1304,47 @@
    ]
   },
   {
+   "symbol": "FRT",
+   "name": "Federal Realty Investment Trust",
+   "name_kr": "페더럴 리얼티",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 117.03,
+   "ttm_dividend": 4.52,
+   "ttm_yield": 3.86,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 1.13,
+   "next_ex_date": "2026-10-01",
+   "history": [
+    {
+     "ex_date": "2025-10-01",
+     "amount": 1.13
+    },
+    {
+     "ex_date": "2026-01-02",
+     "amount": 1.13
+    },
+    {
+     "ex_date": "2026-04-01",
+     "amount": 1.13
+    },
+    {
+     "ex_date": "2026-07-01",
+     "amount": 1.13
+    }
+   ]
+  },
+  {
    "symbol": "ESS",
    "name": "Essex Property Trust",
    "name_kr": "에식스 프로퍼티",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 282.96,
+   "price": 279.0,
    "ttm_dividend": 10.32,
-   "ttm_yield": 3.65,
+   "ttm_yield": 3.7,
    "last_ex_date": "2026-06-30",
    "last_amount": 2.59,
    "next_ex_date": "2026-06-30",
@@ -1356,79 +1368,15 @@
    ]
   },
   {
-   "symbol": "MKC",
-   "name": "McCormick",
-   "name_kr": "맥코믹",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 54.22,
-   "ttm_dividend": 1.89,
-   "ttm_yield": 3.49,
-   "last_ex_date": "2026-07-06",
-   "last_amount": 0.48,
-   "next_ex_date": "2026-07-06",
-   "history": [
-    {
-     "ex_date": "2025-10-14",
-     "amount": 0.45
-    },
-    {
-     "ex_date": "2025-12-29",
-     "amount": 0.48
-    },
-    {
-     "ex_date": "2026-04-20",
-     "amount": 0.48
-    },
-    {
-     "ex_date": "2026-07-06",
-     "amount": 0.48
-    }
-   ]
-  },
-  {
-   "symbol": "BF-B",
-   "name": "Brown-Forman B",
-   "name_kr": "브라운포맨 B",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 26.57,
-   "ttm_dividend": 0.92,
-   "ttm_yield": 3.46,
-   "last_ex_date": "2026-06-10",
-   "last_amount": 0.231,
-   "next_ex_date": "2026-09-03",
-   "history": [
-    {
-     "ex_date": "2025-09-03",
-     "amount": 0.227
-    },
-    {
-     "ex_date": "2025-12-05",
-     "amount": 0.231
-    },
-    {
-     "ex_date": "2026-03-09",
-     "amount": 0.231
-    },
-    {
-     "ex_date": "2026-06-10",
-     "amount": 0.231
-    }
-   ]
-  },
-  {
    "symbol": "SWK",
    "name": "Stanley Black & Decker",
    "name_kr": "스탠리 블랙앤데커",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 96.37,
+   "price": 94.51,
    "ttm_dividend": 3.32,
-   "ttm_yield": 3.45,
+   "ttm_yield": 3.51,
    "last_ex_date": "2026-06-08",
    "last_amount": 0.83,
    "next_ex_date": "2026-09-08",
@@ -1452,34 +1400,66 @@
    ]
   },
   {
-   "symbol": "CVX",
-   "name": "Chevron",
-   "name_kr": "셰브론",
+   "symbol": "BF-B",
+   "name": "Brown-Forman B",
+   "name_kr": "브라운포맨 B",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 206.14,
-   "ttm_dividend": 7.05,
-   "ttm_yield": 3.42,
-   "last_ex_date": "2026-08-19",
-   "last_amount": 1.78,
-   "next_ex_date": "2026-08-19",
+   "price": 26.36,
+   "ttm_dividend": 0.92,
+   "ttm_yield": 3.49,
+   "last_ex_date": "2026-06-10",
+   "last_amount": 0.231,
+   "next_ex_date": "2026-09-03",
    "history": [
     {
-     "ex_date": "2025-11-18",
-     "amount": 1.71
+     "ex_date": "2025-09-03",
+     "amount": 0.227
     },
     {
-     "ex_date": "2026-02-17",
-     "amount": 1.78
+     "ex_date": "2025-12-05",
+     "amount": 0.231
     },
     {
-     "ex_date": "2026-05-19",
-     "amount": 1.78
+     "ex_date": "2026-03-09",
+     "amount": 0.231
     },
     {
-     "ex_date": "2026-08-19",
-     "amount": 1.78
+     "ex_date": "2026-06-10",
+     "amount": 0.231
+    }
+   ]
+  },
+  {
+   "symbol": "MKC",
+   "name": "McCormick",
+   "name_kr": "맥코믹",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 54.26,
+   "ttm_dividend": 1.89,
+   "ttm_yield": 3.48,
+   "last_ex_date": "2026-07-06",
+   "last_amount": 0.48,
+   "next_ex_date": "2026-07-06",
+   "history": [
+    {
+     "ex_date": "2025-10-14",
+     "amount": 0.45
+    },
+    {
+     "ex_date": "2025-12-29",
+     "amount": 0.48
+    },
+    {
+     "ex_date": "2026-04-20",
+     "amount": 0.48
+    },
+    {
+     "ex_date": "2026-07-06",
+     "amount": 0.48
     }
    ]
   },
@@ -1490,9 +1470,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 37.25,
+   "price": 37.66,
    "ttm_dividend": 1.272,
-   "ttm_yield": 3.41,
+   "ttm_yield": 3.38,
    "last_ex_date": "2026-06-30",
    "last_amount": 0.388,
    "next_ex_date": "2026-09-30",
@@ -1530,9 +1510,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 131.16,
+   "price": 131.42,
    "ttm_dividend": 4.42,
-   "ttm_yield": 3.37,
+   "ttm_yield": 3.36,
    "last_ex_date": "2026-08-14",
    "last_amount": 1.12,
    "next_ex_date": "2026-08-14",
@@ -1556,15 +1536,47 @@
    ]
   },
   {
+   "symbol": "CVX",
+   "name": "Chevron",
+   "name_kr": "셰브론",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 211.05,
+   "ttm_dividend": 7.05,
+   "ttm_yield": 3.34,
+   "last_ex_date": "2026-08-19",
+   "last_amount": 1.78,
+   "next_ex_date": "2026-08-19",
+   "history": [
+    {
+     "ex_date": "2025-11-18",
+     "amount": 1.71
+    },
+    {
+     "ex_date": "2026-02-17",
+     "amount": 1.78
+    },
+    {
+     "ex_date": "2026-05-19",
+     "amount": 1.78
+    },
+    {
+     "ex_date": "2026-08-19",
+     "amount": 1.78
+    }
+   ]
+  },
+  {
    "symbol": "HDV",
    "name": "iShares Core High Dividend",
    "name_kr": "아이셰어즈 고배당",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 29.5,
+   "price": 29.61,
    "ttm_dividend": 0.9862,
-   "ttm_yield": 3.34,
+   "ttm_yield": 3.33,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.105,
    "next_ex_date": null,
@@ -1602,9 +1614,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 107.02,
+   "price": 107.7,
    "ttm_dividend": 3.514,
-   "ttm_yield": 3.28,
+   "ttm_yield": 3.26,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.888,
    "next_ex_date": "2026-08-19",
@@ -1634,9 +1646,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 162.5,
+   "price": 162.81,
    "ttm_dividend": 5.258,
-   "ttm_yield": 3.24,
+   "ttm_yield": 3.23,
    "last_ex_date": "2026-06-15",
    "last_amount": 1.247,
    "next_ex_date": null,
@@ -1660,47 +1672,15 @@
    ]
   },
   {
-   "symbol": "MDT",
-   "name": "Medtronic",
-   "name_kr": "메드트로닉",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 90.65,
-   "ttm_dividend": 2.85,
-   "ttm_yield": 3.14,
-   "last_ex_date": "2026-06-26",
-   "last_amount": 0.72,
-   "next_ex_date": "2026-09-25",
-   "history": [
-    {
-     "ex_date": "2025-09-26",
-     "amount": 0.71
-    },
-    {
-     "ex_date": "2025-12-26",
-     "amount": 0.71
-    },
-    {
-     "ex_date": "2026-03-27",
-     "amount": 0.71
-    },
-    {
-     "ex_date": "2026-06-26",
-     "amount": 0.72
-    }
-   ]
-  },
-  {
    "symbol": "GPC",
    "name": "Genuine Parts",
    "name_kr": "제뉴인 파츠",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 135.67,
+   "price": 134.84,
    "ttm_dividend": 4.186,
-   "ttm_yield": 3.09,
+   "ttm_yield": 3.1,
    "last_ex_date": "2026-06-05",
    "last_amount": 1.063,
    "next_ex_date": "2026-09-04",
@@ -1724,15 +1704,47 @@
    ]
   },
   {
+   "symbol": "MDT",
+   "name": "Medtronic",
+   "name_kr": "메드트로닉",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 92.04,
+   "ttm_dividend": 2.85,
+   "ttm_yield": 3.1,
+   "last_ex_date": "2026-06-26",
+   "last_amount": 0.72,
+   "next_ex_date": "2026-09-25",
+   "history": [
+    {
+     "ex_date": "2025-09-26",
+     "amount": 0.71
+    },
+    {
+     "ex_date": "2025-12-26",
+     "amount": 0.71
+    },
+    {
+     "ex_date": "2026-03-27",
+     "amount": 0.71
+    },
+    {
+     "ex_date": "2026-06-26",
+     "amount": 0.72
+    }
+   ]
+  },
+  {
    "symbol": "SCHD",
    "name": "Schwab US Dividend Equity",
    "name_kr": "슈왑 미국 배당주",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 34.89,
+   "price": 34.81,
    "ttm_dividend": 1.048,
-   "ttm_yield": 3.0,
+   "ttm_yield": 3.01,
    "last_ex_date": "2026-06-24",
    "last_amount": 0.253,
    "next_ex_date": null,
@@ -1762,9 +1774,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 145.12,
+   "price": 146.21,
    "ttm_dividend": 4.292,
-   "ttm_yield": 2.96,
+   "ttm_yield": 2.94,
    "last_ex_date": "2026-07-24",
    "last_amount": 1.089,
    "next_ex_date": "2026-07-24",
@@ -1794,9 +1806,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 82.34,
+   "price": 82.93,
    "ttm_dividend": 2.436,
-   "ttm_yield": 2.96,
+   "ttm_yield": 2.94,
    "last_ex_date": "2026-08-28",
    "last_amount": 0.623,
    "next_ex_date": "2026-08-28",
@@ -1826,9 +1838,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 233.87,
+   "price": 231.4,
    "ttm_dividend": 6.74,
-   "ttm_yield": 2.88,
+   "ttm_yield": 2.91,
    "last_ex_date": "2026-08-10",
    "last_amount": 1.69,
    "next_ex_date": "2026-08-10",
@@ -1852,71 +1864,15 @@
    ]
   },
   {
-   "symbol": "TGT",
-   "name": "Target",
-   "name_kr": "타깃",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 160.88,
-   "ttm_dividend": 4.58,
-   "ttm_yield": 2.85,
-   "last_ex_date": "2026-08-12",
-   "last_amount": 1.16,
-   "next_ex_date": "2026-08-12",
-   "history": [
-    {
-     "ex_date": "2025-11-12",
-     "amount": 1.14
-    },
-    {
-     "ex_date": "2026-02-11",
-     "amount": 1.14
-    },
-    {
-     "ex_date": "2026-05-13",
-     "amount": 1.14
-    },
-    {
-     "ex_date": "2026-08-12",
-     "amount": 1.16
-    }
-   ]
-  },
-  {
-   "symbol": "AMCR",
-   "name": "Amcor",
-   "name_kr": "암코어",
-   "tier": "aristocrat",
-   "frequency": "semiannual",
-   "frequency_kr": "반기배당",
-   "price": 45.89,
-   "ttm_dividend": 1.3,
-   "ttm_yield": 2.83,
-   "last_ex_date": "2026-05-28",
-   "last_amount": 0.65,
-   "next_ex_date": "2026-09-04",
-   "history": [
-    {
-     "ex_date": "2026-02-25",
-     "amount": 0.65
-    },
-    {
-     "ex_date": "2026-05-28",
-     "amount": 0.65
-    }
-   ]
-  },
-  {
    "symbol": "HD",
    "name": "Home Depot",
    "name_kr": "홈디포",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 327.83,
+   "price": 319.77,
    "ttm_dividend": 9.26,
-   "ttm_yield": 2.82,
+   "ttm_yield": 2.9,
    "last_ex_date": "2026-06-04",
    "last_amount": 2.33,
    "next_ex_date": "2026-09-03",
@@ -1940,15 +1896,39 @@
    ]
   },
   {
+   "symbol": "AMCR",
+   "name": "Amcor",
+   "name_kr": "암코어",
+   "tier": "aristocrat",
+   "frequency": "semiannual",
+   "frequency_kr": "반기배당",
+   "price": 45.82,
+   "ttm_dividend": 1.3,
+   "ttm_yield": 2.84,
+   "last_ex_date": "2026-05-28",
+   "last_amount": 0.65,
+   "next_ex_date": "2026-09-04",
+   "history": [
+    {
+     "ex_date": "2026-02-25",
+     "amount": 0.65
+    },
+    {
+     "ex_date": "2026-05-28",
+     "amount": 0.65
+    }
+   ]
+  },
+  {
    "symbol": "MCD",
    "name": "McDonald's",
    "name_kr": "맥도날드",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 263.54,
+   "price": 261.11,
    "ttm_dividend": 7.35,
-   "ttm_yield": 2.79,
+   "ttm_yield": 2.81,
    "last_ex_date": "2026-06-02",
    "last_amount": 1.86,
    "next_ex_date": "2026-09-01",
@@ -1972,15 +1952,47 @@
    ]
   },
   {
+   "symbol": "TGT",
+   "name": "Target",
+   "name_kr": "타깃",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 163.75,
+   "ttm_dividend": 4.58,
+   "ttm_yield": 2.8,
+   "last_ex_date": "2026-08-12",
+   "last_amount": 1.16,
+   "next_ex_date": "2026-08-12",
+   "history": [
+    {
+     "ex_date": "2025-11-12",
+     "amount": 1.14
+    },
+    {
+     "ex_date": "2026-02-11",
+     "amount": 1.14
+    },
+    {
+     "ex_date": "2026-05-13",
+     "amount": 1.14
+    },
+    {
+     "ex_date": "2026-08-12",
+     "amount": 1.16
+    }
+   ]
+  },
+  {
    "symbol": "SYY",
    "name": "Sysco",
    "name_kr": "시스코(식자재)",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 81.08,
+   "price": 82.11,
    "ttm_dividend": 2.17,
-   "ttm_yield": 2.68,
+   "ttm_yield": 2.64,
    "last_ex_date": "2026-07-02",
    "last_amount": 0.55,
    "next_ex_date": "2026-10-02",
@@ -2010,9 +2022,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 256.42,
+   "price": 259.99,
    "ttm_dividend": 6.83,
-   "ttm_yield": 2.66,
+   "ttm_yield": 2.63,
    "last_ex_date": "2026-07-15",
    "last_amount": 1.73,
    "next_ex_date": "2026-07-15",
@@ -2036,47 +2048,15 @@
    ]
   },
   {
-   "symbol": "XOM",
-   "name": "Exxon Mobil",
-   "name_kr": "엑슨모빌",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 160.95,
-   "ttm_dividend": 4.12,
-   "ttm_yield": 2.56,
-   "last_ex_date": "2026-08-17",
-   "last_amount": 1.03,
-   "next_ex_date": "2026-08-17",
-   "history": [
-    {
-     "ex_date": "2025-11-14",
-     "amount": 1.03
-    },
-    {
-     "ex_date": "2026-02-12",
-     "amount": 1.03
-    },
-    {
-     "ex_date": "2026-05-15",
-     "amount": 1.03
-    },
-    {
-     "ex_date": "2026-08-17",
-     "amount": 1.03
-    }
-   ]
-  },
-  {
    "symbol": "PPG",
    "name": "PPG Industries",
    "name_kr": "PPG 인더스트리스",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 112.17,
+   "price": 109.7,
    "ttm_dividend": 2.87,
-   "ttm_yield": 2.56,
+   "ttm_yield": 2.62,
    "last_ex_date": "2026-08-10",
    "last_amount": 0.74,
    "next_ex_date": "2026-08-10",
@@ -2100,79 +2080,15 @@
    ]
   },
   {
-   "symbol": "ADM",
-   "name": "Archer-Daniels-Midland",
-   "name_kr": "아처 대니얼스 미들랜드",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 81.29,
-   "ttm_dividend": 2.07,
-   "ttm_yield": 2.55,
-   "last_ex_date": "2026-08-19",
-   "last_amount": 0.52,
-   "next_ex_date": "2026-08-19",
-   "history": [
-    {
-     "ex_date": "2025-11-19",
-     "amount": 0.51
-    },
-    {
-     "ex_date": "2026-02-17",
-     "amount": 0.52
-    },
-    {
-     "ex_date": "2026-05-20",
-     "amount": 0.52
-    },
-    {
-     "ex_date": "2026-08-19",
-     "amount": 0.52
-    }
-   ]
-  },
-  {
-   "symbol": "AOS",
-   "name": "A.O. Smith",
-   "name_kr": "A.O. 스미스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 59.13,
-   "ttm_dividend": 1.44,
-   "ttm_yield": 2.44,
-   "last_ex_date": "2026-07-31",
-   "last_amount": 0.36,
-   "next_ex_date": "2026-07-31",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-07-31",
-     "amount": 0.36
-    }
-   ]
-  },
-  {
    "symbol": "LMT",
    "name": "Lockheed Martin",
    "name_kr": "록히드마틴",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 561.23,
+   "price": 544.5,
    "ttm_dividend": 13.65,
-   "ttm_yield": 2.43,
+   "ttm_yield": 2.51,
    "last_ex_date": "2026-06-01",
    "last_amount": 3.45,
    "next_ex_date": "2026-09-01",
@@ -2196,34 +2112,98 @@
    ]
   },
   {
-   "symbol": "ATO",
-   "name": "Atmos Energy",
-   "name_kr": "애트모스 에너지",
+   "symbol": "XOM",
+   "name": "Exxon Mobil",
+   "name_kr": "엑슨모빌",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 166.13,
-   "ttm_dividend": 4.0,
-   "ttm_yield": 2.41,
-   "last_ex_date": "2026-08-24",
-   "last_amount": 1.0,
-   "next_ex_date": "2026-08-24",
+   "price": 164.55,
+   "ttm_dividend": 4.12,
+   "ttm_yield": 2.5,
+   "last_ex_date": "2026-08-17",
+   "last_amount": 1.03,
+   "next_ex_date": "2026-08-17",
    "history": [
     {
-     "ex_date": "2025-11-24",
-     "amount": 1.0
+     "ex_date": "2025-11-14",
+     "amount": 1.03
     },
     {
-     "ex_date": "2026-02-23",
-     "amount": 1.0
+     "ex_date": "2026-02-12",
+     "amount": 1.03
     },
     {
-     "ex_date": "2026-05-26",
-     "amount": 1.0
+     "ex_date": "2026-05-15",
+     "amount": 1.03
     },
     {
-     "ex_date": "2026-08-24",
-     "amount": 1.0
+     "ex_date": "2026-08-17",
+     "amount": 1.03
+    }
+   ]
+  },
+  {
+   "symbol": "AOS",
+   "name": "A.O. Smith",
+   "name_kr": "A.O. 스미스",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 58.49,
+   "ttm_dividend": 1.44,
+   "ttm_yield": 2.46,
+   "last_ex_date": "2026-07-31",
+   "last_amount": 0.36,
+   "next_ex_date": "2026-07-31",
+   "history": [
+    {
+     "ex_date": "2025-10-31",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.36
+    }
+   ]
+  },
+  {
+   "symbol": "ADM",
+   "name": "Archer-Daniels-Midland",
+   "name_kr": "아처 대니얼스 미들랜드",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 84.55,
+   "ttm_dividend": 2.07,
+   "ttm_yield": 2.45,
+   "last_ex_date": "2026-08-19",
+   "last_amount": 0.52,
+   "next_ex_date": "2026-08-19",
+   "history": [
+    {
+     "ex_date": "2025-11-19",
+     "amount": 0.51
+    },
+    {
+     "ex_date": "2026-02-17",
+     "amount": 0.52
+    },
+    {
+     "ex_date": "2026-05-20",
+     "amount": 0.52
+    },
+    {
+     "ex_date": "2026-08-19",
+     "amount": 0.52
     }
    ]
   },
@@ -2234,9 +2214,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 204.7,
+   "price": 200.05,
    "ttm_dividend": 4.85,
-   "ttm_yield": 2.37,
+   "ttm_yield": 2.42,
    "last_ex_date": "2026-07-22",
    "last_amount": 1.25,
    "next_ex_date": "2026-10-21",
@@ -2260,15 +2240,79 @@
    ]
   },
   {
+   "symbol": "ATO",
+   "name": "Atmos Energy",
+   "name_kr": "애트모스 에너지",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 167.7,
+   "ttm_dividend": 4.0,
+   "ttm_yield": 2.39,
+   "last_ex_date": "2026-08-24",
+   "last_amount": 1.0,
+   "next_ex_date": "2026-08-24",
+   "history": [
+    {
+     "ex_date": "2025-11-24",
+     "amount": 1.0
+    },
+    {
+     "ex_date": "2026-02-23",
+     "amount": 1.0
+    },
+    {
+     "ex_date": "2026-05-26",
+     "amount": 1.0
+    },
+    {
+     "ex_date": "2026-08-24",
+     "amount": 1.0
+    }
+   ]
+  },
+  {
+   "symbol": "ITW",
+   "name": "Illinois Tool Works",
+   "name_kr": "일리노이 툴 웍스",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 269.88,
+   "ttm_dividend": 6.44,
+   "ttm_yield": 2.39,
+   "last_ex_date": "2026-06-30",
+   "last_amount": 1.61,
+   "next_ex_date": "2026-09-30",
+   "history": [
+    {
+     "ex_date": "2025-09-30",
+     "amount": 1.61
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 1.61
+    },
+    {
+     "ex_date": "2026-03-31",
+     "amount": 1.61
+    },
+    {
+     "ex_date": "2026-06-30",
+     "amount": 1.61
+    }
+   ]
+  },
+  {
    "symbol": "KO",
    "name": "Coca-Cola",
    "name_kr": "코카콜라",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 88.67,
+   "price": 88.0,
    "ttm_dividend": 2.08,
-   "ttm_yield": 2.35,
+   "ttm_yield": 2.36,
    "last_ex_date": "2026-06-15",
    "last_amount": 0.53,
    "next_ex_date": "2026-09-15",
@@ -2292,13 +2336,109 @@
    ]
   },
   {
+   "symbol": "APD",
+   "name": "Air Products & Chemicals",
+   "name_kr": "에어프로덕츠",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 305.32,
+   "ttm_dividend": 7.2,
+   "ttm_yield": 2.36,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 1.81,
+   "next_ex_date": "2026-10-01",
+   "history": [
+    {
+     "ex_date": "2025-10-01",
+     "amount": 1.79
+    },
+    {
+     "ex_date": "2026-01-02",
+     "amount": 1.79
+    },
+    {
+     "ex_date": "2026-04-01",
+     "amount": 1.81
+    },
+    {
+     "ex_date": "2026-07-01",
+     "amount": 1.81
+    }
+   ]
+  },
+  {
+   "symbol": "SBUX",
+   "name": "Starbucks",
+   "name_kr": "스타벅스",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 106.15,
+   "ttm_dividend": 2.48,
+   "ttm_yield": 2.34,
+   "last_ex_date": "2026-08-14",
+   "last_amount": 0.62,
+   "next_ex_date": "2026-08-14",
+   "history": [
+    {
+     "ex_date": "2025-11-14",
+     "amount": 0.62
+    },
+    {
+     "ex_date": "2026-02-13",
+     "amount": 0.62
+    },
+    {
+     "ex_date": "2026-05-15",
+     "amount": 0.62
+    },
+    {
+     "ex_date": "2026-08-14",
+     "amount": 0.62
+    }
+   ]
+  },
+  {
+   "symbol": "ADP",
+   "name": "Automatic Data Processing",
+   "name_kr": "ADP",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 283.49,
+   "ttm_dividend": 6.64,
+   "ttm_yield": 2.34,
+   "last_ex_date": "2026-06-12",
+   "last_amount": 1.7,
+   "next_ex_date": "2026-09-11",
+   "history": [
+    {
+     "ex_date": "2025-09-12",
+     "amount": 1.54
+    },
+    {
+     "ex_date": "2025-12-12",
+     "amount": 1.7
+    },
+    {
+     "ex_date": "2026-03-13",
+     "amount": 1.7
+    },
+    {
+     "ex_date": "2026-06-12",
+     "amount": 1.7
+    }
+   ]
+  },
+  {
    "symbol": "CL",
    "name": "Colgate-Palmolive",
    "name_kr": "콜게이트-팜올리브",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 89.82,
+   "price": 89.63,
    "ttm_dividend": 2.1,
    "ttm_yield": 2.34,
    "last_ex_date": "2026-07-20",
@@ -2324,175 +2464,15 @@
    ]
   },
   {
-   "symbol": "ITW",
-   "name": "Illinois Tool Works",
-   "name_kr": "일리노이 툴 웍스",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 275.37,
-   "ttm_dividend": 6.44,
-   "ttm_yield": 2.34,
-   "last_ex_date": "2026-06-30",
-   "last_amount": 1.61,
-   "next_ex_date": "2026-09-30",
-   "history": [
-    {
-     "ex_date": "2025-09-30",
-     "amount": 1.61
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 1.61
-    },
-    {
-     "ex_date": "2026-03-31",
-     "amount": 1.61
-    },
-    {
-     "ex_date": "2026-06-30",
-     "amount": 1.61
-    }
-   ]
-  },
-  {
-   "symbol": "SBUX",
-   "name": "Starbucks",
-   "name_kr": "스타벅스",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 106.25,
-   "ttm_dividend": 2.48,
-   "ttm_yield": 2.33,
-   "last_ex_date": "2026-08-14",
-   "last_amount": 0.62,
-   "next_ex_date": "2026-08-14",
-   "history": [
-    {
-     "ex_date": "2025-11-14",
-     "amount": 0.62
-    },
-    {
-     "ex_date": "2026-02-13",
-     "amount": 0.62
-    },
-    {
-     "ex_date": "2026-05-15",
-     "amount": 0.62
-    },
-    {
-     "ex_date": "2026-08-14",
-     "amount": 0.62
-    }
-   ]
-  },
-  {
-   "symbol": "APD",
-   "name": "Air Products & Chemicals",
-   "name_kr": "에어프로덕츠",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 309.46,
-   "ttm_dividend": 7.2,
-   "ttm_yield": 2.33,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 1.81,
-   "next_ex_date": "2026-10-01",
-   "history": [
-    {
-     "ex_date": "2025-10-01",
-     "amount": 1.79
-    },
-    {
-     "ex_date": "2026-01-02",
-     "amount": 1.79
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 1.81
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 1.81
-    }
-   ]
-  },
-  {
-   "symbol": "ADP",
-   "name": "Automatic Data Processing",
-   "name_kr": "ADP",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 286.16,
-   "ttm_dividend": 6.64,
-   "ttm_yield": 2.32,
-   "last_ex_date": "2026-06-12",
-   "last_amount": 1.7,
-   "next_ex_date": "2026-09-11",
-   "history": [
-    {
-     "ex_date": "2025-09-12",
-     "amount": 1.54
-    },
-    {
-     "ex_date": "2025-12-12",
-     "amount": 1.7
-    },
-    {
-     "ex_date": "2026-03-13",
-     "amount": 1.7
-    },
-    {
-     "ex_date": "2026-06-12",
-     "amount": 1.7
-    }
-   ]
-  },
-  {
-   "symbol": "UNH",
-   "name": "UnitedHealth Group",
-   "name_kr": "유나이티드헬스그룹",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 389.41,
-   "ttm_dividend": 8.95,
-   "ttm_yield": 2.3,
-   "last_ex_date": "2026-06-15",
-   "last_amount": 2.32,
-   "next_ex_date": "2026-09-14",
-   "history": [
-    {
-     "ex_date": "2025-09-15",
-     "amount": 2.21
-    },
-    {
-     "ex_date": "2025-12-08",
-     "amount": 2.21
-    },
-    {
-     "ex_date": "2026-03-09",
-     "amount": 2.21
-    },
-    {
-     "ex_date": "2026-06-15",
-     "amount": 2.32
-    }
-   ]
-  },
-  {
    "symbol": "ABT",
    "name": "Abbott Laboratories",
    "name_kr": "애벗 래버러토리스",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 110.36,
+   "price": 108.93,
    "ttm_dividend": 2.48,
-   "ttm_yield": 2.25,
+   "ttm_yield": 2.28,
    "last_ex_date": "2026-07-15",
    "last_amount": 0.63,
    "next_ex_date": "2026-07-15",
@@ -2516,13 +2496,45 @@
    ]
   },
   {
+   "symbol": "UNH",
+   "name": "UnitedHealth Group",
+   "name_kr": "유나이티드헬스그룹",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 396.3,
+   "ttm_dividend": 8.95,
+   "ttm_yield": 2.26,
+   "last_ex_date": "2026-06-15",
+   "last_amount": 2.32,
+   "next_ex_date": "2026-09-14",
+   "history": [
+    {
+     "ex_date": "2025-09-15",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2025-12-08",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2026-03-09",
+     "amount": 2.21
+    },
+    {
+     "ex_date": "2026-06-15",
+     "amount": 2.32
+    }
+   ]
+  },
+  {
    "symbol": "ERIE",
    "name": "Erie Indemnity",
    "name_kr": "이리 인뎀니티",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 255.56,
+   "price": 256.09,
    "ttm_dividend": 5.754,
    "ttm_yield": 2.25,
    "last_ex_date": "2026-07-07",
@@ -2554,7 +2566,7 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 163.87,
+   "price": 163.31,
    "ttm_dividend": 3.631,
    "ttm_yield": 2.22,
    "last_ex_date": "2026-06-18",
@@ -2586,9 +2598,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 169.9,
+   "price": 170.39,
    "ttm_dividend": 3.62,
-   "ttm_yield": 2.13,
+   "ttm_yield": 2.12,
    "last_ex_date": "2026-06-23",
    "last_amount": 0.94,
    "next_ex_date": "2026-09-23",
@@ -2618,7 +2630,7 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 115.85,
+   "price": 116.02,
    "ttm_dividend": 2.41,
    "ttm_yield": 2.08,
    "last_ex_date": "2026-08-19",
@@ -2650,9 +2662,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 57.87,
+   "price": 57.64,
    "ttm_dividend": 1.165,
-   "ttm_yield": 2.01,
+   "ttm_yield": 2.02,
    "last_ex_date": "2026-06-24",
    "last_amount": 0.304,
    "next_ex_date": null,
@@ -2676,47 +2688,15 @@
    ]
   },
   {
-   "symbol": "JNJ",
-   "name": "Johnson & Johnson",
-   "name_kr": "존슨앤드존슨",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 265.85,
-   "ttm_dividend": 5.28,
-   "ttm_yield": 1.99,
-   "last_ex_date": "2026-08-25",
-   "last_amount": 1.34,
-   "next_ex_date": "2026-08-25",
-   "history": [
-    {
-     "ex_date": "2025-11-25",
-     "amount": 1.3
-    },
-    {
-     "ex_date": "2026-02-24",
-     "amount": 1.3
-    },
-    {
-     "ex_date": "2026-05-26",
-     "amount": 1.34
-    },
-    {
-     "ex_date": "2026-08-25",
-     "amount": 1.34
-    }
-   ]
-  },
-  {
    "symbol": "BDX",
    "name": "Becton Dickinson",
    "name_kr": "벡톤디킨슨",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 188.11,
+   "price": 187.12,
    "ttm_dividend": 3.7431,
-   "ttm_yield": 1.99,
+   "ttm_yield": 2.0,
    "last_ex_date": "2026-06-09",
    "last_amount": 1.05,
    "next_ex_date": "2026-09-09",
@@ -2746,9 +2726,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 49.31,
+   "price": 48.75,
    "ttm_dividend": 0.96,
-   "ttm_yield": 1.95,
+   "ttm_yield": 1.97,
    "last_ex_date": "2026-07-28",
    "last_amount": 0.26,
    "next_ex_date": "2026-07-28",
@@ -2772,13 +2752,45 @@
    ]
   },
   {
+   "symbol": "JNJ",
+   "name": "Johnson & Johnson",
+   "name_kr": "존슨앤드존슨",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 271.19,
+   "ttm_dividend": 5.28,
+   "ttm_yield": 1.95,
+   "last_ex_date": "2026-08-25",
+   "last_amount": 1.34,
+   "next_ex_date": "2026-08-25",
+   "history": [
+    {
+     "ex_date": "2025-11-25",
+     "amount": 1.3
+    },
+    {
+     "ex_date": "2026-02-24",
+     "amount": 1.3
+    },
+    {
+     "ex_date": "2026-05-26",
+     "amount": 1.34
+    },
+    {
+     "ex_date": "2026-08-25",
+     "amount": 1.34
+    }
+   ]
+  },
+  {
    "symbol": "DGRO",
    "name": "iShares Core Dividend Growth",
    "name_kr": "아이셰어즈 배당성장",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 79.02,
+   "price": 78.89,
    "ttm_dividend": 1.478,
    "ttm_yield": 1.87,
    "last_ex_date": "2026-06-15",
@@ -2810,9 +2822,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 171.83,
+   "price": 170.24,
    "ttm_dividend": 3.07,
-   "ttm_yield": 1.79,
+   "ttm_yield": 1.8,
    "last_ex_date": "2026-08-24",
    "last_amount": 0.78,
    "next_ex_date": "2026-08-24",
@@ -2842,7 +2854,7 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 60.46,
+   "price": 60.45,
    "ttm_dividend": 1.06,
    "ttm_yield": 1.75,
    "last_ex_date": "2026-07-24",
@@ -2874,9 +2886,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 149.66,
+   "price": 147.88,
    "ttm_dividend": 2.51,
-   "ttm_yield": 1.68,
+   "ttm_yield": 1.7,
    "last_ex_date": "2026-06-05",
    "last_amount": 0.63,
    "next_ex_date": "2026-09-04",
@@ -2906,9 +2918,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 371.35,
+   "price": 369.41,
    "ttm_dividend": 6.18,
-   "ttm_yield": 1.66,
+   "ttm_yield": 1.67,
    "last_ex_date": "2026-07-02",
    "last_amount": 1.59,
    "next_ex_date": "2026-10-09",
@@ -2932,47 +2944,15 @@
    ]
   },
   {
-   "symbol": "VIG",
-   "name": "Vanguard Dividend Appreciation",
-   "name_kr": "뱅가드 배당성장",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 242.07,
-   "ttm_dividend": 3.581,
-   "ttm_yield": 1.48,
-   "last_ex_date": "2026-06-26",
-   "last_amount": 0.999,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-09-29",
-     "amount": 0.865
-    },
-    {
-     "ex_date": "2025-12-22",
-     "amount": 0.884
-    },
-    {
-     "ex_date": "2026-03-27",
-     "amount": 0.833
-    },
-    {
-     "ex_date": "2026-06-26",
-     "amount": 0.999
-    }
-   ]
-  },
-  {
    "symbol": "EMR",
    "name": "Emerson Electric",
    "name_kr": "에머슨 일렉트릭",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 152.44,
+   "price": 147.63,
    "ttm_dividend": 2.22,
-   "ttm_yield": 1.46,
+   "ttm_yield": 1.5,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.555,
    "next_ex_date": "2026-08-14",
@@ -2996,15 +2976,111 @@
    ]
   },
   {
+   "symbol": "VIG",
+   "name": "Vanguard Dividend Appreciation",
+   "name_kr": "뱅가드 배당성장",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 241.09,
+   "ttm_dividend": 3.581,
+   "ttm_yield": 1.49,
+   "last_ex_date": "2026-06-26",
+   "last_amount": 0.999,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-09-29",
+     "amount": 0.865
+    },
+    {
+     "ex_date": "2025-12-22",
+     "amount": 0.884
+    },
+    {
+     "ex_date": "2026-03-27",
+     "amount": 0.833
+    },
+    {
+     "ex_date": "2026-06-26",
+     "amount": 0.999
+    }
+   ]
+  },
+  {
+   "symbol": "FDS",
+   "name": "FactSet Research",
+   "name_kr": "팩트셋",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 305.44,
+   "ttm_dividend": 4.52,
+   "ttm_yield": 1.48,
+   "last_ex_date": "2026-08-31",
+   "last_amount": 1.16,
+   "next_ex_date": "2026-08-31",
+   "history": [
+    {
+     "ex_date": "2025-11-28",
+     "amount": 1.1
+    },
+    {
+     "ex_date": "2026-02-27",
+     "amount": 1.1
+    },
+    {
+     "ex_date": "2026-05-29",
+     "amount": 1.16
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 1.16
+    }
+   ]
+  },
+  {
+   "symbol": "ORCL",
+   "name": "Oracle",
+   "name_kr": "오라클",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 141.32,
+   "ttm_dividend": 2.0,
+   "ttm_yield": 1.42,
+   "last_ex_date": "2026-07-10",
+   "last_amount": 0.5,
+   "next_ex_date": "2026-07-10",
+   "history": [
+    {
+     "ex_date": "2025-10-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-01-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-04-09",
+     "amount": 0.5
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.5
+    }
+   ]
+  },
+  {
    "symbol": "DIA",
    "name": "SPDR Dow Jones Industrial Average",
    "name_kr": "SPDR 다우존스",
    "tier": null,
    "frequency": "monthly",
    "frequency_kr": "월배당",
-   "price": 531.57,
+   "price": 527.75,
    "ttm_dividend": 7.352,
-   "ttm_yield": 1.38,
+   "ttm_yield": 1.39,
    "last_ex_date": "2026-08-21",
    "last_amount": 0.437,
    "next_ex_date": null,
@@ -3060,45 +3136,13 @@
    ]
   },
   {
-   "symbol": "ORCL",
-   "name": "Oracle",
-   "name_kr": "오라클",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 149.12,
-   "ttm_dividend": 2.0,
-   "ttm_yield": 1.34,
-   "last_ex_date": "2026-07-10",
-   "last_amount": 0.5,
-   "next_ex_date": "2026-07-10",
-   "history": [
-    {
-     "ex_date": "2025-10-09",
-     "amount": 0.5
-    },
-    {
-     "ex_date": "2026-01-09",
-     "amount": 0.5
-    },
-    {
-     "ex_date": "2026-04-09",
-     "amount": 0.5
-    },
-    {
-     "ex_date": "2026-07-10",
-     "amount": 0.5
-    }
-   ]
-  },
-  {
    "symbol": "LIN",
    "name": "Linde",
    "name_kr": "린데",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 489.58,
+   "price": 486.76,
    "ttm_dividend": 6.2,
    "ttm_yield": 1.27,
    "last_ex_date": "2026-06-04",
@@ -3130,9 +3174,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 99.78,
+   "price": 99.43,
    "ttm_dividend": 1.219,
-   "ttm_yield": 1.22,
+   "ttm_yield": 1.23,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.308,
    "next_ex_date": "2026-08-14",
@@ -3162,7 +3206,7 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 134.97,
+   "price": 135.54,
    "ttm_dividend": 1.62,
    "ttm_yield": 1.2,
    "last_ex_date": "2026-06-12",
@@ -3188,30 +3232,34 @@
    ]
   },
   {
-   "symbol": "FDS",
-   "name": "FactSet Research",
-   "name_kr": "팩트셋",
-   "tier": "aristocrat",
+   "symbol": "DOV",
+   "name": "Dover",
+   "name_kr": "도버",
+   "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 313.55,
-   "ttm_dividend": 3.36,
-   "ttm_yield": 1.07,
-   "last_ex_date": "2026-05-29",
-   "last_amount": 1.16,
+   "price": 189.93,
+   "ttm_dividend": 2.085,
+   "ttm_yield": 1.1,
+   "last_ex_date": "2026-08-31",
+   "last_amount": 0.525,
    "next_ex_date": "2026-08-31",
    "history": [
     {
      "ex_date": "2025-11-28",
-     "amount": 1.1
+     "amount": 0.52
     },
     {
      "ex_date": "2026-02-27",
-     "amount": 1.1
+     "amount": 0.52
     },
     {
      "ex_date": "2026-05-29",
-     "amount": 1.16
+     "amount": 0.52
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 0.525
     }
    ]
   },
@@ -3222,9 +3270,9 @@
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 321.72,
+   "price": 314.4,
    "ttm_dividend": 3.28,
-   "ttm_yield": 1.02,
+   "ttm_yield": 1.04,
    "last_ex_date": "2026-06-18",
    "last_amount": 0.82,
    "next_ex_date": "2026-09-10",
@@ -3254,9 +3302,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 283.2,
+   "price": 280.25,
    "ttm_dividend": 2.84,
-   "ttm_yield": 1.0,
+   "ttm_yield": 1.01,
    "last_ex_date": "2026-06-16",
    "last_amount": 0.73,
    "next_ex_date": "2026-09-15",
@@ -3286,9 +3334,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 338.81,
+   "price": 329.95,
    "ttm_dividend": 3.19,
-   "ttm_yield": 0.94,
+   "ttm_yield": 0.97,
    "last_ex_date": "2026-08-21",
    "last_amount": 0.8,
    "next_ex_date": "2026-08-21",
@@ -3318,7 +3366,7 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 201.79,
+   "price": 200.59,
    "ttm_dividend": 1.87,
    "ttm_yield": 0.93,
    "last_ex_date": "2026-08-14",
@@ -3344,47 +3392,15 @@
    ]
   },
   {
-   "symbol": "WMT",
-   "name": "Walmart",
-   "name_kr": "월마트",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 104.87,
-   "ttm_dividend": 0.979,
-   "ttm_yield": 0.93,
-   "last_ex_date": "2026-08-21",
-   "last_amount": 0.248,
-   "next_ex_date": "2026-12-11",
-   "history": [
-    {
-     "ex_date": "2025-12-12",
-     "amount": 0.235
-    },
-    {
-     "ex_date": "2026-03-20",
-     "amount": 0.248
-    },
-    {
-     "ex_date": "2026-05-08",
-     "amount": 0.248
-    },
-    {
-     "ex_date": "2026-08-21",
-     "amount": 0.248
-    }
-   ]
-  },
-  {
    "symbol": "BRO",
    "name": "Brown & Brown",
    "name_kr": "브라운앤브라운",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 72.17,
+   "price": 72.05,
    "ttm_dividend": 0.66,
-   "ttm_yield": 0.91,
+   "ttm_yield": 0.92,
    "last_ex_date": "2026-08-12",
    "last_amount": 0.165,
    "next_ex_date": "2026-08-12",
@@ -3408,13 +3424,45 @@
    ]
   },
   {
+   "symbol": "WMT",
+   "name": "Walmart",
+   "name_kr": "월마트",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 105.92,
+   "ttm_dividend": 0.979,
+   "ttm_yield": 0.92,
+   "last_ex_date": "2026-08-21",
+   "last_amount": 0.248,
+   "next_ex_date": "2026-12-11",
+   "history": [
+    {
+     "ex_date": "2025-12-12",
+     "amount": 0.235
+    },
+    {
+     "ex_date": "2026-03-20",
+     "amount": 0.248
+    },
+    {
+     "ex_date": "2026-05-08",
+     "amount": 0.248
+    },
+    {
+     "ex_date": "2026-08-21",
+     "amount": 0.248
+    }
+   ]
+  },
+  {
    "symbol": "NUE",
    "name": "Nucor",
    "name_kr": "뉴코",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 249.64,
+   "price": 251.92,
    "ttm_dividend": 2.23,
    "ttm_yield": 0.89,
    "last_ex_date": "2026-06-30",
@@ -3440,45 +3488,13 @@
    ]
   },
   {
-   "symbol": "CAH",
-   "name": "Cardinal Health",
-   "name_kr": "카디널헬스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 234.62,
-   "ttm_dividend": 2.049,
-   "ttm_yield": 0.87,
-   "last_ex_date": "2026-07-01",
-   "last_amount": 0.516,
-   "next_ex_date": "2026-10-01",
-   "history": [
-    {
-     "ex_date": "2025-10-01",
-     "amount": 0.511
-    },
-    {
-     "ex_date": "2026-01-02",
-     "amount": 0.511
-    },
-    {
-     "ex_date": "2026-04-01",
-     "amount": 0.511
-    },
-    {
-     "ex_date": "2026-07-01",
-     "amount": 0.516
-    }
-   ]
-  },
-  {
    "symbol": "TSM",
    "name": "Taiwan Semiconductor (ADR)",
    "name_kr": "TSMC",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 415.32,
+   "price": 414.0,
    "ttm_dividend": 3.568,
    "ttm_yield": 0.86,
    "last_ex_date": "2026-06-11",
@@ -3504,34 +3520,34 @@
    ]
   },
   {
-   "symbol": "SPGI",
-   "name": "S&P Global",
-   "name_kr": "S&P 글로벌",
-   "tier": "king",
+   "symbol": "CAH",
+   "name": "Cardinal Health",
+   "name_kr": "카디널헬스",
+   "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 435.84,
-   "ttm_dividend": 3.7136,
-   "ttm_yield": 0.85,
-   "last_ex_date": "2026-08-26",
-   "last_amount": 0.97,
-   "next_ex_date": "2026-08-26",
+   "price": 239.35,
+   "ttm_dividend": 2.049,
+   "ttm_yield": 0.86,
+   "last_ex_date": "2026-07-01",
+   "last_amount": 0.516,
+   "next_ex_date": "2026-10-01",
    "history": [
     {
-     "ex_date": "2025-11-25",
-     "amount": 0.9082
+     "ex_date": "2025-10-01",
+     "amount": 0.511
     },
     {
-     "ex_date": "2026-02-25",
-     "amount": 0.9177
+     "ex_date": "2026-01-02",
+     "amount": 0.511
     },
     {
-     "ex_date": "2026-05-29",
-     "amount": 0.9177
+     "ex_date": "2026-04-01",
+     "amount": 0.511
     },
     {
-     "ex_date": "2026-08-26",
-     "amount": 0.97
+     "ex_date": "2026-07-01",
+     "amount": 0.516
     }
    ]
   },
@@ -3542,9 +3558,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 424.64,
+   "price": 418.31,
    "ttm_dividend": 3.555,
-   "ttm_yield": 0.84,
+   "ttm_yield": 0.85,
    "last_ex_date": "2026-07-08",
    "last_amount": 0.91,
    "next_ex_date": "2026-10-02",
@@ -3574,9 +3590,9 @@
    "tier": "aristocrat",
    "frequency": "semiannual",
    "frequency_kr": "반기배당",
-   "price": 189.65,
+   "price": 187.7,
    "ttm_dividend": 1.58,
-   "ttm_yield": 0.83,
+   "ttm_yield": 0.84,
    "last_ex_date": "2026-06-01",
    "last_amount": 0.81,
    "next_ex_date": "2026-06-01",
@@ -3592,30 +3608,34 @@
    ]
   },
   {
-   "symbol": "DOV",
-   "name": "Dover",
-   "name_kr": "도버",
+   "symbol": "SPGI",
+   "name": "S&P Global",
+   "name_kr": "S&P 글로벌",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 194.23,
-   "ttm_dividend": 1.56,
-   "ttm_yield": 0.8,
-   "last_ex_date": "2026-05-29",
-   "last_amount": 0.52,
-   "next_ex_date": "2026-08-31",
+   "price": 440.21,
+   "ttm_dividend": 3.7136,
+   "ttm_yield": 0.84,
+   "last_ex_date": "2026-08-26",
+   "last_amount": 0.97,
+   "next_ex_date": "2026-08-26",
    "history": [
     {
-     "ex_date": "2025-11-28",
-     "amount": 0.52
+     "ex_date": "2025-11-25",
+     "amount": 0.9082
     },
     {
-     "ex_date": "2026-02-27",
-     "amount": 0.52
+     "ex_date": "2026-02-25",
+     "amount": 0.9177
     },
     {
      "ex_date": "2026-05-29",
-     "amount": 0.52
+     "amount": 0.9177
+    },
+    {
+     "ex_date": "2026-08-26",
+     "amount": 0.97
     }
    ]
   },
@@ -3626,9 +3646,9 @@
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 797.47,
+   "price": 779.16,
    "ttm_dividend": 6.16,
-   "ttm_yield": 0.77,
+   "ttm_yield": 0.79,
    "last_ex_date": "2026-07-20",
    "last_amount": 1.63,
    "next_ex_date": "2026-07-20",
@@ -3652,13 +3672,45 @@
    ]
   },
   {
+   "symbol": "MSFT",
+   "name": "Microsoft",
+   "name_kr": "마이크로소프트",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 501.02,
+   "ttm_dividend": 3.64,
+   "ttm_yield": 0.73,
+   "last_ex_date": "2026-08-20",
+   "last_amount": 0.91,
+   "next_ex_date": "2026-08-20",
+   "history": [
+    {
+     "ex_date": "2025-11-20",
+     "amount": 0.91
+    },
+    {
+     "ex_date": "2026-02-19",
+     "amount": 0.91
+    },
+    {
+     "ex_date": "2026-05-21",
+     "amount": 0.91
+    },
+    {
+     "ex_date": "2026-08-20",
+     "amount": 0.91
+    }
+   ]
+  },
+  {
    "symbol": "GWW",
    "name": "W.W. Grainger",
    "name_kr": "W.W. 그레인저",
    "tier": "king",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 1309.49,
+   "price": 1309.21,
    "ttm_dividend": 9.5,
    "ttm_yield": 0.73,
    "last_ex_date": "2026-08-10",
@@ -3684,45 +3736,13 @@
    ]
   },
   {
-   "symbol": "MSFT",
-   "name": "Microsoft",
-   "name_kr": "마이크로소프트",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 507.29,
-   "ttm_dividend": 3.64,
-   "ttm_yield": 0.72,
-   "last_ex_date": "2026-08-20",
-   "last_amount": 0.91,
-   "next_ex_date": "2026-08-20",
-   "history": [
-    {
-     "ex_date": "2025-11-20",
-     "amount": 0.91
-    },
-    {
-     "ex_date": "2026-02-19",
-     "amount": 0.91
-    },
-    {
-     "ex_date": "2026-05-21",
-     "amount": 0.91
-    },
-    {
-     "ex_date": "2026-08-20",
-     "amount": 0.91
-    }
-   ]
-  },
-  {
    "symbol": "AVGO",
    "name": "Broadcom",
    "name_kr": "브로드컴",
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 370.34,
+   "price": 369.68,
    "ttm_dividend": 2.54,
    "ttm_yield": 0.69,
    "last_ex_date": "2026-06-22",
@@ -3754,7 +3774,7 @@
    "tier": "aristocrat",
    "frequency": "semiannual",
    "frequency_kr": "반기배당",
-   "price": 338.6,
+   "price": 338.74,
    "ttm_dividend": 1.99,
    "ttm_yield": 0.59,
    "last_ex_date": "2026-06-12",
@@ -3778,9 +3798,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 1696.01,
+   "price": 1665.14,
    "ttm_dividend": 9.062,
-   "ttm_yield": 0.53,
+   "ttm_yield": 0.54,
    "last_ex_date": "2026-07-28",
    "last_amount": 2.138,
    "next_ex_date": "2026-07-28",
@@ -3810,9 +3830,9 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 572.34,
+   "price": 578.54,
    "ttm_dividend": 2.1,
-   "ttm_yield": 0.37,
+   "ttm_yield": 0.36,
    "last_ex_date": "2026-06-15",
    "last_amount": 0.525,
    "next_ex_date": "2026-06-15",
@@ -3842,7 +3862,7 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 316.85,
+   "price": 325.13,
    "ttm_dividend": 1.06,
    "ttm_yield": 0.33,
    "last_ex_date": "2026-08-10",
@@ -3868,13 +3888,45 @@
    ]
   },
   {
+   "symbol": "GOOG",
+   "name": "Alphabet (Class C)",
+   "name_kr": "알파벳 C",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 332.03,
+   "ttm_dividend": 0.85,
+   "ttm_yield": 0.26,
+   "last_ex_date": "2026-06-08",
+   "last_amount": 0.22,
+   "next_ex_date": "2026-09-04",
+   "history": [
+    {
+     "ex_date": "2025-09-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2025-12-08",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-03-09",
+     "amount": 0.21
+    },
+    {
+     "ex_date": "2026-06-08",
+     "amount": 0.22
+    }
+   ]
+  },
+  {
    "symbol": "WST",
    "name": "West Pharmaceutical Services",
    "name_kr": "웨스트 파마슈티컬",
    "tier": "aristocrat",
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 341.11,
+   "price": 338.65,
    "ttm_dividend": 0.88,
    "ttm_yield": 0.26,
    "last_ex_date": "2026-07-29",
@@ -3906,39 +3958,7 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 339.35,
-   "ttm_dividend": 0.85,
-   "ttm_yield": 0.25,
-   "last_ex_date": "2026-06-08",
-   "last_amount": 0.22,
-   "next_ex_date": "2026-09-04",
-   "history": [
-    {
-     "ex_date": "2025-09-08",
-     "amount": 0.21
-    },
-    {
-     "ex_date": "2025-12-08",
-     "amount": 0.21
-    },
-    {
-     "ex_date": "2026-03-09",
-     "amount": 0.21
-    },
-    {
-     "ex_date": "2026-06-08",
-     "amount": 0.22
-    }
-   ]
-  },
-  {
-   "symbol": "GOOG",
-   "name": "Alphabet (Class C)",
-   "name_kr": "알파벳 C",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 335.41,
+   "price": 335.02,
    "ttm_dividend": 0.85,
    "ttm_yield": 0.25,
    "last_ex_date": "2026-06-08",
@@ -4002,7 +4022,7 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 220.78,
+   "price": 217.44,
    "ttm_dividend": 0.28,
    "ttm_yield": 0.13,
    "last_ex_date": "2026-06-04",
@@ -4034,7 +4054,7 @@
    "tier": null,
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
-   "price": 958.73,
+   "price": 933.44,
    "ttm_dividend": 0.53,
    "ttm_yield": 0.06,
    "last_ex_date": "2026-07-06",
