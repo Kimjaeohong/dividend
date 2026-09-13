@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-12 00:13 UTC",
+ "updated_at": "2026-09-13 00:00 UTC",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -2116,6 +2116,38 @@
    ]
   },
   {
+   "symbol": "ADP",
+   "name": "Automatic Data Processing",
+   "name_kr": "ADP",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 268.26,
+   "ttm_dividend": 6.8,
+   "ttm_yield": 2.53,
+   "last_ex_date": "2026-09-11",
+   "last_amount": 1.7,
+   "next_ex_date": "2026-09-11",
+   "history": [
+    {
+     "ex_date": "2025-12-12",
+     "amount": 1.7
+    },
+    {
+     "ex_date": "2026-03-13",
+     "amount": 1.7
+    },
+    {
+     "ex_date": "2026-06-12",
+     "amount": 1.7
+    },
+    {
+     "ex_date": "2026-09-11",
+     "amount": 1.7
+    }
+   ]
+  },
+  {
    "symbol": "SBUX",
    "name": "Starbucks",
    "name_kr": "스타벅스",
@@ -2208,38 +2240,6 @@
     {
      "ex_date": "2026-08-17",
      "amount": 1.03
-    }
-   ]
-  },
-  {
-   "symbol": "ADP",
-   "name": "Automatic Data Processing",
-   "name_kr": "ADP",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 268.26,
-   "ttm_dividend": 6.64,
-   "ttm_yield": 2.48,
-   "last_ex_date": "2026-06-12",
-   "last_amount": 1.7,
-   "next_ex_date": "2026-09-11",
-   "history": [
-    {
-     "ex_date": "2025-09-12",
-     "amount": 1.54
-    },
-    {
-     "ex_date": "2025-12-12",
-     "amount": 1.7
-    },
-    {
-     "ex_date": "2026-03-13",
-     "amount": 1.7
-    },
-    {
-     "ex_date": "2026-06-12",
-     "amount": 1.7
     }
    ]
   },
@@ -3115,16 +3115,12 @@
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
    "price": 117.52,
-   "ttm_dividend": 1.62,
+   "ttm_dividend": 1.625,
    "ttm_yield": 1.38,
-   "last_ex_date": "2026-06-12",
-   "last_amount": 0.405,
+   "last_ex_date": "2026-09-11",
+   "last_amount": 0.41,
    "next_ex_date": "2026-09-11",
    "history": [
-    {
-     "ex_date": "2025-09-12",
-     "amount": 0.405
-    },
     {
      "ex_date": "2025-12-12",
      "amount": 0.405
@@ -3136,6 +3132,10 @@
     {
      "ex_date": "2026-06-12",
      "amount": 0.405
+    },
+    {
+     "ex_date": "2026-09-11",
+     "amount": 0.41
     }
    ]
   },
@@ -3524,6 +3524,34 @@
    ]
   },
   {
+   "symbol": "CB",
+   "name": "Chubb",
+   "name_kr": "처브",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 338.25,
+   "ttm_dividend": 3.01,
+   "ttm_yield": 0.89,
+   "last_ex_date": "2026-09-11",
+   "last_amount": 1.02,
+   "next_ex_date": "2026-09-11",
+   "history": [
+    {
+     "ex_date": "2026-03-13",
+     "amount": 0.97
+    },
+    {
+     "ex_date": "2026-06-12",
+     "amount": 1.02
+    },
+    {
+     "ex_date": "2026-09-11",
+     "amount": 1.02
+    }
+   ]
+  },
+  {
    "symbol": "CAH",
    "name": "Cardinal Health",
    "name_kr": "카디널헬스",
@@ -3772,30 +3800,6 @@
    ]
   },
   {
-   "symbol": "CB",
-   "name": "Chubb",
-   "name_kr": "처브",
-   "tier": "aristocrat",
-   "frequency": "semiannual",
-   "frequency_kr": "반기배당",
-   "price": 338.25,
-   "ttm_dividend": 1.99,
-   "ttm_yield": 0.59,
-   "last_ex_date": "2026-06-12",
-   "last_amount": 1.02,
-   "next_ex_date": "2026-09-11",
-   "history": [
-    {
-     "ex_date": "2026-03-13",
-     "amount": 0.97
-    },
-    {
-     "ex_date": "2026-06-12",
-     "amount": 1.02
-    }
-   ]
-  },
-  {
    "symbol": "ASML",
    "name": "ASML Holding",
    "name_kr": "ASML",
@@ -3871,7 +3875,7 @@
    "ttm_yield": 0.32,
    "last_ex_date": "2026-06-15",
    "last_amount": 0.525,
-   "next_ex_date": "2026-06-15",
+   "next_ex_date": "2026-09-21",
    "history": [
     {
      "ex_date": "2025-09-22",
