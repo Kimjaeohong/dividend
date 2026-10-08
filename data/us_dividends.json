@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-08 01:53 UTC",
+ "updated_at": "2026-10-08 22:06 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -15,7 +15,7 @@
    "ttm_yield": 17.02,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.12,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -607,7 +607,7 @@
    "ttm_yield": 6.74,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.31,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -735,7 +735,7 @@
    "ttm_yield": 6.3,
    "last_ex_date": "2026-09-04",
    "last_amount": 0.65,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-28",
@@ -767,7 +767,7 @@
    "ttm_yield": 6.18,
    "last_ex_date": "2026-09-15",
    "last_amount": 1.11,
-   "next_ex_date": "2026-09-15",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-26",
@@ -831,7 +831,7 @@
    "ttm_yield": 6.09,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.272,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -959,7 +959,7 @@
    "ttm_yield": 5.96,
    "last_ex_date": "2026-09-21",
    "last_amount": 0.21,
-   "next_ex_date": "2026-09-21",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-12",
@@ -1059,7 +1059,7 @@
    "ttm_yield": 5.29,
    "last_ex_date": "2026-09-04",
    "last_amount": 1.28,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -1155,7 +1155,7 @@
    "ttm_yield": 4.97,
    "last_ex_date": "2026-09-15",
    "last_amount": 1.3,
-   "next_ex_date": "2026-09-15",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-15",
@@ -1187,7 +1187,7 @@
    "ttm_yield": 4.78,
    "last_ex_date": "2026-09-21",
    "last_amount": 0.788,
-   "next_ex_date": "2026-09-21",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-17",
@@ -1219,7 +1219,7 @@
    "ttm_yield": 4.69,
    "last_ex_date": "2026-09-04",
    "last_amount": 1.48,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -1315,7 +1315,7 @@
    "ttm_yield": 4.35,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.388,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -1355,7 +1355,7 @@
    "ttm_yield": 4.33,
    "last_ex_date": "2026-10-01",
    "last_amount": 1.16,
-   "next_ex_date": "2026-10-01",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -1419,7 +1419,7 @@
    "ttm_yield": 4.06,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.33,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-30",
@@ -1451,7 +1451,7 @@
    "ttm_yield": 3.86,
    "last_ex_date": "2026-09-30",
    "last_amount": 2.59,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -1483,7 +1483,7 @@
    "ttm_yield": 3.81,
    "last_ex_date": "2026-08-14",
    "last_amount": 1.12,
-   "next_ex_date": "2026-08-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -1515,7 +1515,7 @@
    "ttm_yield": 3.77,
    "last_ex_date": "2026-09-08",
    "last_amount": 0.84,
-   "next_ex_date": "2026-09-08",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -1547,7 +1547,7 @@
    "ttm_yield": 3.56,
    "last_ex_date": "2026-09-03",
    "last_amount": 0.231,
-   "next_ex_date": "2026-09-03",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -1611,7 +1611,7 @@
    "ttm_yield": 3.44,
    "last_ex_date": "2026-08-19",
    "last_amount": 1.78,
-   "next_ex_date": "2026-08-19",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-18",
@@ -1643,7 +1643,7 @@
    "ttm_yield": 3.36,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.888,
-   "next_ex_date": "2026-08-19",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-19",
@@ -1675,7 +1675,7 @@
    "ttm_yield": 3.36,
    "last_ex_date": "2026-09-04",
    "last_amount": 1.063,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -1707,7 +1707,7 @@
    "ttm_yield": 3.34,
    "last_ex_date": "2026-09-25",
    "last_amount": 0.72,
-   "next_ex_date": "2026-09-25",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-26",
@@ -1739,7 +1739,7 @@
    "ttm_yield": 3.25,
    "last_ex_date": "2026-09-03",
    "last_amount": 2.33,
-   "next_ex_date": "2026-09-03",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-04",
@@ -1835,7 +1835,7 @@
    "ttm_yield": 3.16,
    "last_ex_date": "2026-08-28",
    "last_amount": 0.623,
-   "next_ex_date": "2026-08-28",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-21",
@@ -1867,7 +1867,7 @@
    "ttm_yield": 3.06,
    "last_ex_date": "2026-08-10",
    "last_amount": 1.69,
-   "next_ex_date": "2026-08-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-10",
@@ -1924,8 +1924,8 @@
    "name": "iShares Core High Dividend",
    "name_kr": "아이셰어즈 고배당",
    "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
    "price": 28.28,
    "ttm_dividend": 0.8522,
    "ttm_yield": 3.01,
@@ -1971,7 +1971,7 @@
    "ttm_yield": 2.9,
    "last_ex_date": "2026-07-24",
    "last_amount": 1.089,
-   "next_ex_date": "2026-07-24",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-24",
@@ -2003,7 +2003,7 @@
    "ttm_yield": 2.84,
    "last_ex_date": "2026-10-02",
    "last_amount": 0.55,
-   "next_ex_date": "2026-10-02",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -2035,7 +2035,7 @@
    "ttm_yield": 2.76,
    "last_ex_date": "2026-09-01",
    "last_amount": 3.45,
-   "next_ex_date": "2026-09-01",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -2067,7 +2067,7 @@
    "ttm_yield": 2.73,
    "last_ex_date": "2026-08-10",
    "last_amount": 0.74,
-   "next_ex_date": "2026-08-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-10",
@@ -2099,7 +2099,7 @@
    "ttm_yield": 2.69,
    "last_ex_date": "2026-10-05",
    "last_amount": 1.463,
-   "next_ex_date": "2026-10-05",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-06",
@@ -2163,7 +2163,7 @@
    "ttm_yield": 2.65,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.62,
-   "next_ex_date": "2026-08-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -2195,7 +2195,7 @@
    "ttm_yield": 2.6,
    "last_ex_date": "2026-07-31",
    "last_amount": 0.36,
-   "next_ex_date": "2026-07-31",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -2227,7 +2227,7 @@
    "ttm_yield": 2.6,
    "last_ex_date": "2026-10-01",
    "last_amount": 1.81,
-   "next_ex_date": "2026-10-01",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -2259,7 +2259,7 @@
    "ttm_yield": 2.58,
    "last_ex_date": "2026-09-11",
    "last_amount": 1.7,
-   "next_ex_date": "2026-09-11",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-12",
@@ -2291,7 +2291,7 @@
    "ttm_yield": 2.54,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.52,
-   "next_ex_date": "2026-08-19",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-19",
@@ -2355,7 +2355,7 @@
    "ttm_yield": 2.51,
    "last_ex_date": "2026-08-17",
    "last_amount": 1.03,
-   "next_ex_date": "2026-08-17",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -2419,7 +2419,7 @@
    "ttm_yield": 2.51,
    "last_ex_date": "2026-08-24",
    "last_amount": 1.0,
-   "next_ex_date": "2026-08-24",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-24",
@@ -2451,7 +2451,7 @@
    "ttm_yield": 2.51,
    "last_ex_date": "2026-09-30",
    "last_amount": 1.72,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-31",
@@ -2483,7 +2483,7 @@
    "ttm_yield": 2.45,
    "last_ex_date": "2026-09-15",
    "last_amount": 0.53,
-   "next_ex_date": "2026-09-15",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -2515,7 +2515,7 @@
    "ttm_yield": 2.41,
    "last_ex_date": "2026-09-14",
    "last_amount": 2.32,
-   "next_ex_date": "2026-09-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-08",
@@ -2611,7 +2611,7 @@
    "ttm_yield": 2.28,
    "last_ex_date": "2026-09-23",
    "last_amount": 0.94,
-   "next_ex_date": "2026-09-23",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-22",
@@ -2643,7 +2643,7 @@
    "ttm_yield": 2.21,
    "last_ex_date": "2026-09-09",
    "last_amount": 1.05,
-   "next_ex_date": "2026-09-09",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-08",
@@ -2707,7 +2707,7 @@
    "ttm_yield": 2.14,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.61,
-   "next_ex_date": "2026-08-19",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-19",
@@ -2739,7 +2739,7 @@
    "ttm_yield": 2.04,
    "last_ex_date": "2026-08-25",
    "last_amount": 1.34,
-   "next_ex_date": "2026-08-25",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-25",
@@ -2835,7 +2835,7 @@
    "ttm_yield": 1.93,
    "last_ex_date": "2026-07-28",
    "last_amount": 0.26,
-   "next_ex_date": "2026-07-28",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-28",
@@ -2867,7 +2867,7 @@
    "ttm_yield": 1.89,
    "last_ex_date": "2026-08-24",
    "last_amount": 0.78,
-   "next_ex_date": "2026-08-24",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -2931,7 +2931,7 @@
    "ttm_yield": 1.86,
    "last_ex_date": "2026-09-04",
    "last_amount": 0.63,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -2963,7 +2963,7 @@
    "ttm_yield": 1.66,
    "last_ex_date": "2026-08-31",
    "last_amount": 1.16,
-   "next_ex_date": "2026-08-31",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-28",
@@ -2995,7 +2995,7 @@
    "ttm_yield": 1.58,
    "last_ex_date": "2026-09-11",
    "last_amount": 0.41,
-   "next_ex_date": "2026-09-11",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-12",
@@ -3155,7 +3155,7 @@
    "ttm_yield": 1.39,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.555,
-   "next_ex_date": "2026-08-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -3187,7 +3187,7 @@
    "ttm_yield": 1.3,
    "last_ex_date": "2026-09-03",
    "last_amount": 1.6,
-   "next_ex_date": "2026-09-03",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-03",
@@ -3219,7 +3219,7 @@
    "ttm_yield": 1.26,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.308,
-   "next_ex_date": "2026-08-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -3251,7 +3251,7 @@
    "ttm_yield": 1.11,
    "last_ex_date": "2026-08-31",
    "last_amount": 0.525,
-   "next_ex_date": "2026-08-31",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-28",
@@ -3283,7 +3283,7 @@
    "ttm_yield": 1.07,
    "last_ex_date": "2026-08-12",
    "last_amount": 0.165,
-   "next_ex_date": "2026-08-12",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-05",
@@ -3315,7 +3315,7 @@
    "ttm_yield": 1.05,
    "last_ex_date": "2026-09-15",
    "last_amount": 0.73,
-   "next_ex_date": "2026-09-15",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-16",
@@ -3347,7 +3347,7 @@
    "ttm_yield": 1.04,
    "last_ex_date": "2026-09-10",
    "last_amount": 0.94,
-   "next_ex_date": "2026-09-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-17",
@@ -3379,7 +3379,7 @@
    "ttm_yield": 1.02,
    "last_ex_date": "2026-10-02",
    "last_amount": 0.91,
-   "next_ex_date": "2026-10-02",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -3411,7 +3411,7 @@
    "ttm_yield": 1.01,
    "last_ex_date": "2026-08-21",
    "last_amount": 0.8,
-   "next_ex_date": "2026-08-21",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -3443,7 +3443,7 @@
    "ttm_yield": 0.95,
    "last_ex_date": "2026-08-14",
    "last_amount": 0.52,
-   "next_ex_date": "2026-08-14",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -3507,7 +3507,7 @@
    "ttm_yield": 0.91,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.56,
-   "next_ex_date": "2026-09-30",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-31",
@@ -3571,7 +3571,7 @@
    "ttm_yield": 0.9,
    "last_ex_date": "2026-09-11",
    "last_amount": 1.02,
-   "next_ex_date": "2026-09-11",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-03-13",
@@ -3599,7 +3599,7 @@
    "ttm_yield": 0.88,
    "last_ex_date": "2026-10-01",
    "last_amount": 0.516,
-   "next_ex_date": "2026-10-01",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -3631,7 +3631,7 @@
    "ttm_yield": 0.83,
    "last_ex_date": "2026-06-01",
    "last_amount": 0.81,
-   "next_ex_date": "2026-06-01",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -3687,7 +3687,7 @@
    "ttm_yield": 0.76,
    "last_ex_date": "2026-07-20",
    "last_amount": 1.63,
-   "next_ex_date": "2026-07-20",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-20",
@@ -3719,7 +3719,7 @@
    "ttm_yield": 0.75,
    "last_ex_date": "2026-08-10",
    "last_amount": 2.49,
-   "next_ex_date": "2026-08-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-10",
@@ -3751,7 +3751,7 @@
    "ttm_yield": 0.69,
    "last_ex_date": "2026-09-21",
    "last_amount": 0.65,
-   "next_ex_date": "2026-09-21",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-22",
@@ -3815,7 +3815,7 @@
    "ttm_yield": 0.5,
    "last_ex_date": "2026-07-28",
    "last_amount": 2.138,
-   "next_ex_date": "2026-07-28",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-10-29",
@@ -3847,7 +3847,7 @@
    "ttm_yield": 0.31,
    "last_ex_date": "2026-08-10",
    "last_amount": 0.27,
-   "next_ex_date": "2026-08-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-10",
@@ -3879,7 +3879,7 @@
    "ttm_yield": 0.29,
    "last_ex_date": "2026-09-21",
    "last_amount": 0.525,
-   "next_ex_date": "2026-09-21",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-15",
@@ -3911,7 +3911,7 @@
    "ttm_yield": 0.25,
    "last_ex_date": "2026-09-04",
    "last_amount": 0.22,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-08",
@@ -3943,7 +3943,7 @@
    "ttm_yield": 0.25,
    "last_ex_date": "2026-09-04",
    "last_amount": 0.22,
-   "next_ex_date": "2026-09-04",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-08",
@@ -3975,7 +3975,7 @@
    "ttm_yield": 0.24,
    "last_ex_date": "2026-07-29",
    "last_amount": 0.22,
-   "next_ex_date": "2026-07-29",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-12",
@@ -4007,7 +4007,7 @@
    "ttm_yield": 0.22,
    "last_ex_date": "2026-09-10",
    "last_amount": 0.25,
-   "next_ex_date": "2026-09-10",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-12-04",
