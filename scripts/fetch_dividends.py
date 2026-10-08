@@ -10,8 +10,13 @@ import time
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from statistics import median
+from zoneinfo import ZoneInfo
 
 import yfinance as yf
+
+NY = ZoneInfo("America/New_York")   # 배당락일은 미국 현지 날짜 기준
+KST = ZoneInfo("Asia/Seoul")        # 갱신 시각은 한국 시간으로 표시
 
 OUT = Path(__file__).resolve().parent.parent / "data" / "us_dividends.json"
 ARISTOCRATS_PATH = Path(__file__).resolve().parent.parent / "data" / "dividend_aristocrats_2026.json"
@@ -106,7 +111,23 @@ def build_universe() -> dict:
 UNIVERSE = build_universe()
 
 
-def infer_frequency(n_last_365d: int) -> str:
+def infer_frequency(ex_dates: list, n_last_365d: int) -> str:
+    """
+    배당 주기 추론.
+    1) 최근 지급 간격(최대 4개)의 중앙값으로 판단 → 분기→월배당처럼 주기를 바꾼 종목도
+       몇 달 안에 바로 반영되고, 특별배당 한 번 정도로는 흔들리지 않음.
+    2) 지급이 1번 이하라 간격을 못 구하면 최근 1년 지급 횟수로 판단.
+    """
+    if len(ex_dates) >= 2:
+        gaps = [(b - a).days for a, b in zip(ex_dates, ex_dates[1:])][-4:]
+        g = median(gaps)
+        if g <= 45:
+            return "monthly"
+        if g <= 120:
+            return "quarterly"
+        if g <= 240:
+            return "semiannual"
+        return "annual"
     if n_last_365d >= 10:
         return "monthly"
     if n_last_365d >= 3:
@@ -128,7 +149,7 @@ def fetch_one(symbol: str, name: str, name_kr: str, tier: str | None) -> dict | 
 
     cutoff = now - timedelta(days=365)
     recent = divs[divs.index >= cutoff]
-    freq = infer_frequency(len(recent))
+    freq = infer_frequency([d.date() for d in recent.index], len(recent))
 
     # 최근 12개월 지급 이력 (배당락일 기준)
     history = [
@@ -137,13 +158,17 @@ def fetch_one(symbol: str, name: str, name_kr: str, tier: str | None) -> dict | 
     ]
 
     # 다음 배당락일 (선언된 경우만 존재)
+    # yfinance는 다음 일정이 아직 없으면 '지난' 배당락일을 돌려주는 경우가 많아서,
+    # 미국 현지 오늘 날짜보다 이전이면 버림 → 페이지에 지난 날짜가 '다음 배당락'으로 안 뜸
     next_ex = None
     try:
         cal = t.calendar
         if isinstance(cal, dict):
             ex = cal.get("Ex-Dividend Date")
             if ex:
-                next_ex = ex.strftime("%Y-%m-%d") if hasattr(ex, "strftime") else str(ex)
+                s = ex.strftime("%Y-%m-%d") if hasattr(ex, "strftime") else str(ex)[:10]
+                if s >= datetime.now(NY).strftime("%Y-%m-%d"):
+                    next_ex = s
     except Exception:
         pass
 
@@ -205,7 +230,7 @@ def main() -> int:
         return 1
 
     payload = {
-        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M KST"),
         "count": len(results),
         "failed": failed,
         "tickers": sorted(results, key=lambda r: (r["ttm_yield"] or 0), reverse=True),
