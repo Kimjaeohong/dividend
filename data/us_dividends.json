@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-10 10:45 KST",
+ "updated_at": "2026-10-11 09:57 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -452,42 +452,6 @@
    ]
   },
   {
-   "symbol": "VZ",
-   "name": "Verizon",
-   "name_kr": "버라이즌",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 41.65,
-   "ttm_dividend": 3.504,
-   "ttm_yield": 8.41,
-   "last_ex_date": "2026-10-09",
-   "last_amount": 0.708,
-   "next_ex_date": "2026-10-09",
-   "history": [
-    {
-     "ex_date": "2025-10-10",
-     "amount": 0.69
-    },
-    {
-     "ex_date": "2026-01-12",
-     "amount": 0.69
-    },
-    {
-     "ex_date": "2026-04-10",
-     "amount": 0.708
-    },
-    {
-     "ex_date": "2026-07-10",
-     "amount": 0.708
-    },
-    {
-     "ex_date": "2026-10-09",
-     "amount": 0.708
-    }
-   ]
-  },
-  {
    "symbol": "MAIN",
    "name": "Main Street Capital",
    "name_kr": "메인스트리트 캐피털",
@@ -632,6 +596,38 @@
    ]
   },
   {
+   "symbol": "VZ",
+   "name": "Verizon",
+   "name_kr": "버라이즌",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 41.65,
+   "ttm_dividend": 2.814,
+   "ttm_yield": 6.76,
+   "last_ex_date": "2026-10-09",
+   "last_amount": 0.708,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2026-01-12",
+     "amount": 0.69
+    },
+    {
+     "ex_date": "2026-04-10",
+     "amount": 0.708
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.708
+    },
+    {
+     "ex_date": "2026-10-09",
+     "amount": 0.708
+    }
+   ]
+  },
+  {
    "symbol": "EPR",
    "name": "EPR Properties",
    "name_kr": "EPR 프로퍼티스",
@@ -756,42 +752,6 @@
     {
      "ex_date": "2026-09-29",
      "amount": 0.189
-    }
-   ]
-  },
-  {
-   "symbol": "T",
-   "name": "AT&T",
-   "name_kr": "AT&T",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 22.18,
-   "ttm_dividend": 1.39,
-   "ttm_yield": 6.27,
-   "last_ex_date": "2026-10-09",
-   "last_amount": 0.278,
-   "next_ex_date": "2026-10-09",
-   "history": [
-    {
-     "ex_date": "2025-10-10",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-01-12",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-04-10",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-07-10",
-     "amount": 0.278
-    },
-    {
-     "ex_date": "2026-10-09",
-     "amount": 0.278
     }
    ]
   },
@@ -1180,6 +1140,38 @@
     {
      "ex_date": "2026-09-21",
      "amount": 0.202
+    }
+   ]
+  },
+  {
+   "symbol": "T",
+   "name": "AT&T",
+   "name_kr": "AT&T",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 22.18,
+   "ttm_dividend": 1.112,
+   "ttm_yield": 5.01,
+   "last_ex_date": "2026-10-09",
+   "last_amount": 0.278,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2026-01-12",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-04-10",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-07-10",
+     "amount": 0.278
+    },
+    {
+     "ex_date": "2026-10-09",
+     "amount": 0.278
     }
    ]
   },
@@ -2107,7 +2099,7 @@
    "ttm_yield": 2.71,
    "last_ex_date": "2026-09-01",
    "last_amount": 3.45,
-   "next_ex_date": null,
+   "next_ex_date": "2026-12-01",
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -2576,42 +2568,6 @@
    ]
   },
   {
-   "symbol": "GD",
-   "name": "General Dynamics",
-   "name_kr": "제너럴 다이내믹스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 331.27,
-   "ttm_dividend": 7.77,
-   "ttm_yield": 2.35,
-   "last_ex_date": "2026-10-09",
-   "last_amount": 1.59,
-   "next_ex_date": "2026-10-09",
-   "history": [
-    {
-     "ex_date": "2025-10-10",
-     "amount": 1.5
-    },
-    {
-     "ex_date": "2026-01-16",
-     "amount": 1.5
-    },
-    {
-     "ex_date": "2026-04-10",
-     "amount": 1.59
-    },
-    {
-     "ex_date": "2026-07-02",
-     "amount": 1.59
-    },
-    {
-     "ex_date": "2026-10-09",
-     "amount": 1.59
-    }
-   ]
-  },
-  {
    "symbol": "VYM",
    "name": "Vanguard High Dividend Yield",
    "name_kr": "뱅가드 고배당",
@@ -2932,6 +2888,38 @@
    ]
   },
   {
+   "symbol": "GD",
+   "name": "General Dynamics",
+   "name_kr": "제너럴 다이내믹스",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 331.27,
+   "ttm_dividend": 6.27,
+   "ttm_yield": 1.89,
+   "last_ex_date": "2026-10-09",
+   "last_amount": 1.59,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2026-01-16",
+     "amount": 1.5
+    },
+    {
+     "ex_date": "2026-04-10",
+     "amount": 1.59
+    },
+    {
+     "ex_date": "2026-07-02",
+     "amount": 1.59
+    },
+    {
+     "ex_date": "2026-10-09",
+     "amount": 1.59
+    }
+   ]
+  },
+  {
    "symbol": "CHRW",
    "name": "C.H. Robinson Worldwide",
    "name_kr": "C.H. 로빈슨",
@@ -3071,7 +3059,7 @@
    "ttm_yield": 1.41,
    "last_ex_date": "2026-10-09",
    "last_amount": 0.5,
-   "next_ex_date": "2026-10-09",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-01-09",
