@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-17 09:24 KST",
+ "updated_at": "2026-10-18 09:00 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -607,7 +607,7 @@
    "ttm_yield": 6.54,
    "last_ex_date": "2026-09-30",
    "last_amount": 0.31,
-   "next_ex_date": null,
+   "next_ex_date": "2026-10-30",
    "history": [
     {
      "ex_date": "2025-10-31",
@@ -1675,7 +1675,7 @@
    "ttm_yield": 3.13,
    "last_ex_date": "2026-08-19",
    "last_amount": 0.888,
-   "next_ex_date": null,
+   "next_ex_date": "2026-11-18",
    "history": [
     {
      "ex_date": "2025-11-19",
@@ -2547,7 +2547,7 @@
    "ttm_yield": 2.24,
    "last_ex_date": "2026-09-15",
    "last_amount": 0.53,
-   "next_ex_date": null,
+   "next_ex_date": "2026-12-01",
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -2563,38 +2563,6 @@
     },
     {
      "ex_date": "2026-09-15",
-     "amount": 0.53
-    }
-   ]
-  },
-  {
-   "symbol": "CL",
-   "name": "Colgate-Palmolive",
-   "name_kr": "콜게이트-팜올리브",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 94.11,
-   "ttm_dividend": 2.1,
-   "ttm_yield": 2.23,
-   "last_ex_date": "2026-07-20",
-   "last_amount": 0.53,
-   "next_ex_date": "2026-10-20",
-   "history": [
-    {
-     "ex_date": "2025-10-17",
-     "amount": 0.52
-    },
-    {
-     "ex_date": "2026-01-21",
-     "amount": 0.52
-    },
-    {
-     "ex_date": "2026-04-20",
-     "amount": 0.53
-    },
-    {
-     "ex_date": "2026-07-20",
      "amount": 0.53
     }
    ]
@@ -2984,6 +2952,34 @@
    ]
   },
   {
+   "symbol": "CL",
+   "name": "Colgate-Palmolive",
+   "name_kr": "콜게이트-팜올리브",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 94.11,
+   "ttm_dividend": 1.58,
+   "ttm_yield": 1.68,
+   "last_ex_date": "2026-07-20",
+   "last_amount": 0.53,
+   "next_ex_date": "2026-10-20",
+   "history": [
+    {
+     "ex_date": "2026-01-21",
+     "amount": 0.52
+    },
+    {
+     "ex_date": "2026-04-20",
+     "amount": 0.53
+    },
+    {
+     "ex_date": "2026-07-20",
+     "amount": 0.53
+    }
+   ]
+  },
+  {
    "symbol": "ORCL",
    "name": "Oracle",
    "name_kr": "오라클",
@@ -3087,16 +3083,12 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 519.1,
-   "ttm_dividend": 7.226,
-   "ttm_yield": 1.39,
-   "last_ex_date": "2026-09-18",
-   "last_amount": 1.192,
+   "ttm_dividend": 7.185,
+   "ttm_yield": 1.38,
+   "last_ex_date": "2026-10-16",
+   "last_amount": 0.114,
    "next_ex_date": null,
    "history": [
-    {
-     "ex_date": "2025-10-17",
-     "amount": 0.155
-    },
     {
      "ex_date": "2025-11-21",
      "amount": 0.576
@@ -3140,6 +3132,10 @@
     {
      "ex_date": "2026-09-18",
      "amount": 1.192
+    },
+    {
+     "ex_date": "2026-10-16",
+     "amount": 0.114
     }
    ]
   },
