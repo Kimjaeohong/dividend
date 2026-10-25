@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24 09:36 KST",
+ "updated_at": "2026-10-25 09:18 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -1511,7 +1511,7 @@
    "ttm_yield": 3.4,
    "last_ex_date": "2026-08-14",
    "last_amount": 1.12,
-   "next_ex_date": null,
+   "next_ex_date": "2026-11-13",
    "history": [
     {
      "ex_date": "2025-11-14",
@@ -1928,6 +1928,38 @@
    ]
   },
   {
+   "symbol": "PG",
+   "name": "Procter & Gamble",
+   "name_kr": "프록터앤드갬블",
+   "tier": "king",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 161.02,
+   "ttm_dividend": 4.324,
+   "ttm_yield": 2.69,
+   "last_ex_date": "2026-10-23",
+   "last_amount": 1.089,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2026-01-23",
+     "amount": 1.057
+    },
+    {
+     "ex_date": "2026-04-24",
+     "amount": 1.089
+    },
+    {
+     "ex_date": "2026-07-24",
+     "amount": 1.089
+    },
+    {
+     "ex_date": "2026-10-23",
+     "amount": 1.089
+    }
+   ]
+  },
+  {
    "symbol": "SYY",
    "name": "Sysco",
    "name_kr": "시스코(식자재)",
@@ -1956,38 +1988,6 @@
     {
      "ex_date": "2026-10-02",
      "amount": 0.55
-    }
-   ]
-  },
-  {
-   "symbol": "PG",
-   "name": "Procter & Gamble",
-   "name_kr": "프록터앤드갬블",
-   "tier": "king",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 161.02,
-   "ttm_dividend": 4.292,
-   "ttm_yield": 2.67,
-   "last_ex_date": "2026-07-24",
-   "last_amount": 1.089,
-   "next_ex_date": "2026-10-23",
-   "history": [
-    {
-     "ex_date": "2025-10-24",
-     "amount": 1.057
-    },
-    {
-     "ex_date": "2026-01-23",
-     "amount": 1.057
-    },
-    {
-     "ex_date": "2026-04-24",
-     "amount": 1.089
-    },
-    {
-     "ex_date": "2026-07-24",
-     "amount": 1.089
     }
    ]
   },
@@ -2767,16 +2767,12 @@
    "frequency": "quarterly",
    "frequency_kr": "분기배당",
    "price": 55.3,
-   "ttm_dividend": 1.06,
-   "ttm_yield": 1.92,
-   "last_ex_date": "2026-07-24",
+   "ttm_dividend": 1.08,
+   "ttm_yield": 1.95,
+   "last_ex_date": "2026-10-23",
    "last_amount": 0.27,
-   "next_ex_date": "2026-10-23",
+   "next_ex_date": null,
    "history": [
-    {
-     "ex_date": "2025-10-24",
-     "amount": 0.25
-    },
     {
      "ex_date": "2026-01-23",
      "amount": 0.27
@@ -2787,6 +2783,10 @@
     },
     {
      "ex_date": "2026-07-24",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-10-23",
      "amount": 0.27
     }
    ]
