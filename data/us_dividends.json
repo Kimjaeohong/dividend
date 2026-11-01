@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31 10:33 KST",
+ "updated_at": "2026-11-01 10:03 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -11,16 +11,12 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 8.65,
-   "ttm_dividend": 1.56,
-   "ttm_yield": 18.03,
+   "ttm_dividend": 1.44,
+   "ttm_yield": 16.65,
    "last_ex_date": "2026-10-30",
    "last_amount": 0.12,
-   "next_ex_date": "2026-10-30",
+   "next_ex_date": null,
    "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.12
-    },
     {
      "ex_date": "2025-11-28",
      "amount": 0.12
@@ -600,74 +596,6 @@
    ]
   },
   {
-   "symbol": "EPR",
-   "name": "EPR Properties",
-   "name_kr": "EPR 프로퍼티스",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 57.71,
-   "ttm_dividend": 3.955,
-   "ttm_yield": 6.85,
-   "last_ex_date": "2026-10-30",
-   "last_amount": 0.31,
-   "next_ex_date": "2026-11-30",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.295
-    },
-    {
-     "ex_date": "2025-11-28",
-     "amount": 0.295
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.295
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.295
-    },
-    {
-     "ex_date": "2026-02-27",
-     "amount": 0.295
-    },
-    {
-     "ex_date": "2026-03-31",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-05-29",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-06-30",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-07-31",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-08-31",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-09-30",
-     "amount": 0.31
-    },
-    {
-     "ex_date": "2026-10-30",
-     "amount": 0.31
-    }
-   ]
-  },
-  {
    "symbol": "DIVO",
    "name": "Amplify CWP Enhanced Dividend",
    "name_kr": "앰플리파이 배당성장 커버드콜",
@@ -732,6 +660,70 @@
    ]
   },
   {
+   "symbol": "EPR",
+   "name": "EPR Properties",
+   "name_kr": "EPR 프로퍼티스",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 57.71,
+   "ttm_dividend": 3.66,
+   "ttm_yield": 6.34,
+   "last_ex_date": "2026-10-30",
+   "last_amount": 0.31,
+   "next_ex_date": "2026-11-30",
+   "history": [
+    {
+     "ex_date": "2025-11-28",
+     "amount": 0.295
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.295
+    },
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.295
+    },
+    {
+     "ex_date": "2026-02-27",
+     "amount": 0.295
+    },
+    {
+     "ex_date": "2026-03-31",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-05-29",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-06-30",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-09-30",
+     "amount": 0.31
+    },
+    {
+     "ex_date": "2026-10-30",
+     "amount": 0.31
+    }
+   ]
+  },
+  {
    "symbol": "VZ",
    "name": "Verizon",
    "name_kr": "버라이즌",
@@ -760,74 +752,6 @@
     {
      "ex_date": "2026-10-09",
      "amount": 0.708
-    }
-   ]
-  },
-  {
-   "symbol": "O",
-   "name": "Realty Income",
-   "name_kr": "리얼티인컴",
-   "tier": "aristocrat",
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 56.93,
-   "ttm_dividend": 3.52,
-   "ttm_yield": 6.18,
-   "last_ex_date": "2026-10-30",
-   "last_amount": 0.272,
-   "next_ex_date": "2026-10-30",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2025-11-28",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-02-27",
-     "amount": 0.27
-    },
-    {
-     "ex_date": "2026-03-31",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-05-29",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-06-30",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-07-31",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-08-31",
-     "amount": 0.271
-    },
-    {
-     "ex_date": "2026-09-30",
-     "amount": 0.272
-    },
-    {
-     "ex_date": "2026-10-30",
-     "amount": 0.272
     }
    ]
   },
@@ -892,6 +816,70 @@
     {
      "ex_date": "2026-10-01",
      "amount": 0.159
+    }
+   ]
+  },
+  {
+   "symbol": "O",
+   "name": "Realty Income",
+   "name_kr": "리얼티인컴",
+   "tier": "aristocrat",
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 56.93,
+   "ttm_dividend": 3.25,
+   "ttm_yield": 5.71,
+   "last_ex_date": "2026-10-30",
+   "last_amount": 0.272,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-11-28",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-02-27",
+     "amount": 0.27
+    },
+    {
+     "ex_date": "2026-03-31",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-05-29",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-06-30",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-08-31",
+     "amount": 0.271
+    },
+    {
+     "ex_date": "2026-09-30",
+     "amount": 0.272
+    },
+    {
+     "ex_date": "2026-10-30",
+     "amount": 0.272
     }
    ]
   },
@@ -1316,46 +1304,6 @@
    ]
   },
   {
-   "symbol": "STAG",
-   "name": "STAG Industrial",
-   "name_kr": "스태그 인더스트리얼",
-   "tier": null,
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 36.86,
-   "ttm_dividend": 1.536,
-   "ttm_yield": 4.17,
-   "last_ex_date": "2026-09-30",
-   "last_amount": 0.388,
-   "next_ex_date": "2026-12-31",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.124
-    },
-    {
-     "ex_date": "2025-11-28",
-     "amount": 0.124
-    },
-    {
-     "ex_date": "2025-12-31",
-     "amount": 0.124
-    },
-    {
-     "ex_date": "2026-03-31",
-     "amount": 0.388
-    },
-    {
-     "ex_date": "2026-06-30",
-     "amount": 0.388
-    },
-    {
-     "ex_date": "2026-09-30",
-     "amount": 0.388
-    }
-   ]
-  },
-  {
    "symbol": "BEN",
    "name": "Franklin Resources",
    "name_kr": "프랭클린 리소시스",
@@ -1399,7 +1347,7 @@
    "ttm_yield": 4.13,
    "last_ex_date": "2026-10-01",
    "last_amount": 1.16,
-   "next_ex_date": null,
+   "next_ex_date": "2027-01-04",
    "history": [
     {
      "ex_date": "2026-01-02",
@@ -1480,6 +1428,42 @@
     {
      "ex_date": "2026-09-30",
      "amount": 2.59
+    }
+   ]
+  },
+  {
+   "symbol": "STAG",
+   "name": "STAG Industrial",
+   "name_kr": "스태그 인더스트리얼",
+   "tier": null,
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 36.86,
+   "ttm_dividend": 1.412,
+   "ttm_yield": 3.83,
+   "last_ex_date": "2026-09-30",
+   "last_amount": 0.388,
+   "next_ex_date": "2026-12-31",
+   "history": [
+    {
+     "ex_date": "2025-11-28",
+     "amount": 0.124
+    },
+    {
+     "ex_date": "2025-12-31",
+     "amount": 0.124
+    },
+    {
+     "ex_date": "2026-03-31",
+     "amount": 0.388
+    },
+    {
+     "ex_date": "2026-06-30",
+     "amount": 0.388
+    },
+    {
+     "ex_date": "2026-09-30",
+     "amount": 0.388
     }
    ]
   },
@@ -1623,7 +1607,7 @@
    "ttm_yield": 3.22,
    "last_ex_date": "2026-09-08",
    "last_amount": 0.84,
-   "next_ex_date": null,
+   "next_ex_date": "2026-12-01",
    "history": [
     {
      "ex_date": "2025-12-01",
@@ -1731,7 +1715,7 @@
    "ttm_yield": 2.99,
    "last_ex_date": "2026-08-19",
    "last_amount": 1.78,
-   "next_ex_date": null,
+   "next_ex_date": "2026-11-18",
    "history": [
     {
      "ex_date": "2025-11-18",
@@ -1876,42 +1860,6 @@
     {
      "ex_date": "2026-08-28",
      "amount": 0.623
-    }
-   ]
-  },
-  {
-   "symbol": "AOS",
-   "name": "A.O. Smith",
-   "name_kr": "A.O. 스미스",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 63.07,
-   "ttm_dividend": 1.82,
-   "ttm_yield": 2.89,
-   "last_ex_date": "2026-10-30",
-   "last_amount": 0.38,
-   "next_ex_date": "2026-10-30",
-   "history": [
-    {
-     "ex_date": "2025-10-31",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-01-30",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-04-30",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-07-31",
-     "amount": 0.36
-    },
-    {
-     "ex_date": "2026-10-30",
-     "amount": 0.38
     }
    ]
   },
@@ -2215,7 +2163,7 @@
    "ttm_yield": 2.35,
    "last_ex_date": "2026-10-15",
    "last_amount": 1.73,
-   "next_ex_date": null,
+   "next_ex_date": "2027-01-15",
    "history": [
     {
      "ex_date": "2026-01-16",
@@ -2247,7 +2195,7 @@
    "ttm_yield": 2.35,
    "last_ex_date": "2026-09-30",
    "last_amount": 1.72,
-   "next_ex_date": null,
+   "next_ex_date": "2026-12-31",
    "history": [
     {
      "ex_date": "2025-12-31",
@@ -2360,6 +2308,38 @@
     {
      "ex_date": "2026-09-11",
      "amount": 1.7
+    }
+   ]
+  },
+  {
+   "symbol": "AOS",
+   "name": "A.O. Smith",
+   "name_kr": "A.O. 스미스",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 63.07,
+   "ttm_dividend": 1.46,
+   "ttm_yield": 2.31,
+   "last_ex_date": "2026-10-30",
+   "last_amount": 0.38,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2026-01-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-04-30",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-07-31",
+     "amount": 0.36
+    },
+    {
+     "ex_date": "2026-10-30",
+     "amount": 0.38
     }
    ]
   },
@@ -2567,7 +2547,7 @@
    "ttm_yield": 2.2,
    "last_ex_date": "2026-08-17",
    "last_amount": 1.03,
-   "next_ex_date": null,
+   "next_ex_date": "2026-11-16",
    "history": [
     {
      "ex_date": "2025-11-14",
