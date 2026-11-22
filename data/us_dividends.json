@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21 12:10 KST",
+ "updated_at": "2026-11-22 11:09 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -1715,7 +1715,7 @@
    "ttm_yield": 3.09,
    "last_ex_date": "2026-09-03",
    "last_amount": 0.231,
-   "next_ex_date": null,
+   "next_ex_date": "2026-12-07",
    "history": [
     {
      "ex_date": "2025-12-05",
@@ -1796,38 +1796,6 @@
     {
      "ex_date": "2026-11-18",
      "amount": 0.888
-    }
-   ]
-  },
-  {
-   "symbol": "NEE",
-   "name": "NextEra Energy",
-   "name_kr": "넥스트에라 에너지",
-   "tier": "aristocrat",
-   "frequency": "quarterly",
-   "frequency_kr": "분기배당",
-   "price": 83.45,
-   "ttm_dividend": 2.436,
-   "ttm_yield": 2.92,
-   "last_ex_date": "2026-08-28",
-   "last_amount": 0.623,
-   "next_ex_date": "2026-11-27",
-   "history": [
-    {
-     "ex_date": "2025-11-21",
-     "amount": 0.567
-    },
-    {
-     "ex_date": "2026-02-27",
-     "amount": 0.623
-    },
-    {
-     "ex_date": "2026-06-05",
-     "amount": 0.623
-    },
-    {
-     "ex_date": "2026-08-28",
-     "amount": 0.623
     }
    ]
   },
@@ -2440,6 +2408,34 @@
    ]
   },
   {
+   "symbol": "NEE",
+   "name": "NextEra Energy",
+   "name_kr": "넥스트에라 에너지",
+   "tier": "aristocrat",
+   "frequency": "quarterly",
+   "frequency_kr": "분기배당",
+   "price": 83.45,
+   "ttm_dividend": 1.869,
+   "ttm_yield": 2.24,
+   "last_ex_date": "2026-08-28",
+   "last_amount": 0.623,
+   "next_ex_date": "2026-11-27",
+   "history": [
+    {
+     "ex_date": "2026-02-27",
+     "amount": 0.623
+    },
+    {
+     "ex_date": "2026-06-05",
+     "amount": 0.623
+    },
+    {
+     "ex_date": "2026-08-28",
+     "amount": 0.623
+    }
+   ]
+  },
+  {
    "symbol": "LOW",
    "name": "Lowe's",
    "name_kr": "로우스",
@@ -2952,74 +2948,6 @@
    ]
   },
   {
-   "symbol": "DIA",
-   "name": "SPDR Dow Jones Industrial Average",
-   "name_kr": "SPDR 다우존스",
-   "tier": null,
-   "frequency": "monthly",
-   "frequency_kr": "월배당",
-   "price": 481.08,
-   "ttm_dividend": 7.731,
-   "ttm_yield": 1.61,
-   "last_ex_date": "2026-11-20",
-   "last_amount": 0.546,
-   "next_ex_date": null,
-   "history": [
-    {
-     "ex_date": "2025-11-21",
-     "amount": 0.576
-    },
-    {
-     "ex_date": "2025-12-19",
-     "amount": 1.044
-    },
-    {
-     "ex_date": "2026-01-16",
-     "amount": 0.179
-    },
-    {
-     "ex_date": "2026-02-20",
-     "amount": 0.613
-    },
-    {
-     "ex_date": "2026-03-20",
-     "amount": 0.994
-    },
-    {
-     "ex_date": "2026-04-17",
-     "amount": 0.206
-    },
-    {
-     "ex_date": "2026-05-15",
-     "amount": 0.276
-    },
-    {
-     "ex_date": "2026-06-18",
-     "amount": 1.405
-    },
-    {
-     "ex_date": "2026-07-17",
-     "amount": 0.149
-    },
-    {
-     "ex_date": "2026-08-21",
-     "amount": 0.437
-    },
-    {
-     "ex_date": "2026-09-18",
-     "amount": 1.192
-    },
-    {
-     "ex_date": "2026-10-16",
-     "amount": 0.114
-    },
-    {
-     "ex_date": "2026-11-20",
-     "amount": 0.546
-    }
-   ]
-  },
-  {
    "symbol": "PNR",
    "name": "Pentair",
    "name_kr": "펜테어",
@@ -3112,6 +3040,70 @@
     {
      "ex_date": "2026-11-13",
      "amount": 0.595
+    }
+   ]
+  },
+  {
+   "symbol": "DIA",
+   "name": "SPDR Dow Jones Industrial Average",
+   "name_kr": "SPDR 다우존스",
+   "tier": null,
+   "frequency": "monthly",
+   "frequency_kr": "월배당",
+   "price": 481.08,
+   "ttm_dividend": 7.155,
+   "ttm_yield": 1.49,
+   "last_ex_date": "2026-11-20",
+   "last_amount": 0.546,
+   "next_ex_date": null,
+   "history": [
+    {
+     "ex_date": "2025-12-19",
+     "amount": 1.044
+    },
+    {
+     "ex_date": "2026-01-16",
+     "amount": 0.179
+    },
+    {
+     "ex_date": "2026-02-20",
+     "amount": 0.613
+    },
+    {
+     "ex_date": "2026-03-20",
+     "amount": 0.994
+    },
+    {
+     "ex_date": "2026-04-17",
+     "amount": 0.206
+    },
+    {
+     "ex_date": "2026-05-15",
+     "amount": 0.276
+    },
+    {
+     "ex_date": "2026-06-18",
+     "amount": 1.405
+    },
+    {
+     "ex_date": "2026-07-17",
+     "amount": 0.149
+    },
+    {
+     "ex_date": "2026-08-21",
+     "amount": 0.437
+    },
+    {
+     "ex_date": "2026-09-18",
+     "amount": 1.192
+    },
+    {
+     "ex_date": "2026-10-16",
+     "amount": 0.114
+    },
+    {
+     "ex_date": "2026-11-20",
+     "amount": 0.546
     }
    ]
   },
