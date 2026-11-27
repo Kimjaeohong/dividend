@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26 13:07 KST",
+ "updated_at": "2026-11-27 13:12 KST",
  "count": 112,
  "failed": [],
  "tickers": [
@@ -599,7 +599,7 @@
    "ttm_yield": 7.18,
    "last_ex_date": "2026-11-25",
    "last_amount": 0.66,
-   "next_ex_date": "2026-11-25",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2025-11-28",
@@ -631,16 +631,12 @@
    "frequency": "monthly",
    "frequency_kr": "월배당",
    "price": 45.33,
-   "ttm_dividend": 3.026,
-   "ttm_yield": 6.68,
+   "ttm_dividend": 2.812,
+   "ttm_yield": 6.2,
    "last_ex_date": "2026-10-29",
    "last_amount": 0.191,
    "next_ex_date": null,
    "history": [
-    {
-     "ex_date": "2025-11-26",
-     "amount": 0.214
-    },
     {
      "ex_date": "2025-12-30",
      "amount": 0.953
@@ -955,7 +951,7 @@
    "ttm_yield": 5.08,
    "last_ex_date": "2026-10-13",
    "last_amount": 0.293,
-   "next_ex_date": null,
+   "next_ex_date": "2027-01-11",
    "history": [
     {
      "ex_date": "2026-01-12",
@@ -3547,7 +3543,7 @@
    "ttm_yield": 0.82,
    "last_ex_date": "2026-11-25",
    "last_amount": 0.97,
-   "next_ex_date": "2026-11-25",
+   "next_ex_date": null,
    "history": [
     {
      "ex_date": "2026-02-25",
